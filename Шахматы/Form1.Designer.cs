@@ -30,44 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.ToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuStrip2 = new System.Windows.Forms.MenuStrip();
-            this.знакомствоСШахматнойДоскойToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.какХодятФигурыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.пешкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.коньToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.слонToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ладьяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ферзьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.корольToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.рокировкаВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.взятиеНаПроходеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.шахВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.матВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ничьяВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.записьПартийВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.какВыигратьВШахматыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.pictureBox17 = new System.Windows.Forms.PictureBox();
             this.label45 = new System.Windows.Forms.Label();
@@ -166,30 +128,6 @@
             this.label57 = new System.Windows.Forms.Label();
             this.label58 = new System.Windows.Forms.Label();
             this.label62 = new System.Windows.Forms.Label();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox257 = new System.Windows.Forms.PictureBox();
-            this.pictureBox256 = new System.Windows.Forms.PictureBox();
-            this.pictureBox255 = new System.Windows.Forms.PictureBox();
-            this.pictureBox254 = new System.Windows.Forms.PictureBox();
-            this.pictureBox253 = new System.Windows.Forms.PictureBox();
-            this.pictureBox252 = new System.Windows.Forms.PictureBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.label115 = new System.Windows.Forms.Label();
             this.label114 = new System.Windows.Forms.Label();
             this.label113 = new System.Windows.Forms.Label();
@@ -789,69 +727,101 @@
             this.label435 = new System.Windows.Forms.Label();
             this.label456 = new System.Windows.Forms.Label();
             this.label457 = new System.Windows.Forms.Label();
-            this.menuStrip3 = new System.Windows.Forms.MenuStrip();
-            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem6 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem13 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem14 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem15 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem16 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem17 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem18 = new System.Windows.Forms.ToolStripMenuItem();
-            this.panel17 = new System.Windows.Forms.Panel();
-            this.pictureBox267 = new System.Windows.Forms.PictureBox();
-            this.label465 = new System.Windows.Forms.Label();
-            this.label466 = new System.Windows.Forms.Label();
-            this.panel18 = new System.Windows.Forms.Panel();
-            this.pictureBox258 = new System.Windows.Forms.PictureBox();
-            this.label452 = new System.Windows.Forms.Label();
-            this.label453 = new System.Windows.Forms.Label();
             this.panel19 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
             this.label454 = new System.Windows.Forms.Label();
             this.label455 = new System.Windows.Forms.Label();
             this.panel20 = new System.Windows.Forms.Panel();
-            this.pictureBox259 = new System.Windows.Forms.PictureBox();
-            this.label458 = new System.Windows.Forms.Label();
+            this.button5 = new System.Windows.Forms.Button();
             this.label459 = new System.Windows.Forms.Label();
-            this.panel21 = new System.Windows.Forms.Panel();
-            this.pictureBox260 = new System.Windows.Forms.PictureBox();
-            this.label460 = new System.Windows.Forms.Label();
-            this.label461 = new System.Windows.Forms.Label();
-            this.panel22 = new System.Windows.Forms.Panel();
-            this.pictureBox261 = new System.Windows.Forms.PictureBox();
-            this.label462 = new System.Windows.Forms.Label();
-            this.label463 = new System.Windows.Forms.Label();
             this.panel23 = new System.Windows.Forms.Panel();
-            this.pictureBox262 = new System.Windows.Forms.PictureBox();
-            this.label464 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
             this.label467 = new System.Windows.Forms.Label();
             this.panel24 = new System.Windows.Forms.Panel();
-            this.pictureBox263 = new System.Windows.Forms.PictureBox();
-            this.label468 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
             this.label469 = new System.Windows.Forms.Label();
             this.panel25 = new System.Windows.Forms.Panel();
             this.button4 = new System.Windows.Forms.Button();
-            this.label475 = new System.Windows.Forms.Label();
-            this.label473 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.pictureBox265 = new System.Windows.Forms.PictureBox();
             this.pictureBox264 = new System.Windows.Forms.PictureBox();
             this.label472 = new System.Windows.Forms.Label();
             this.label470 = new System.Windows.Forms.Label();
             this.label471 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.pictureBox252 = new System.Windows.Forms.PictureBox();
+            this.pictureBox253 = new System.Windows.Forms.PictureBox();
+            this.pictureBox254 = new System.Windows.Forms.PictureBox();
+            this.pictureBox255 = new System.Windows.Forms.PictureBox();
+            this.pictureBox256 = new System.Windows.Forms.PictureBox();
+            this.pictureBox257 = new System.Windows.Forms.PictureBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.знакомствоСШахматнойДоскойToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.какХодятФигурыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.пешкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.коньToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.слонToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ладьяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ферзьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.корольToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.рокировкаВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.взятиеНаПроходеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.шахВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.матВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ничьяВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.записьПартийВШахматахToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.какВыигратьВШахматыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip2 = new System.Windows.Forms.MenuStrip();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem6 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem13 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem16 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem17 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem18 = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip3 = new System.Windows.Forms.MenuStrip();
+            this.ToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label27 = new System.Windows.Forms.Label();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.label466 = new System.Windows.Forms.Label();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.button6 = new System.Windows.Forms.Button();
             this.label474 = new System.Windows.Forms.Label();
-            this.menuStrip1.SuspendLayout();
-            this.menuStrip2.SuspendLayout();
-            this.panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
@@ -896,17 +866,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
-            this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox257)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox256)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox254)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox252)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).BeginInit();
@@ -1126,456 +1085,34 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox249)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.шахматныеФигурыBindingSource)).BeginInit();
             this.panel16.SuspendLayout();
-            this.menuStrip3.SuspendLayout();
-            this.panel17.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox267)).BeginInit();
-            this.panel18.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).BeginInit();
             this.panel19.SuspendLayout();
             this.panel20.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).BeginInit();
-            this.panel21.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox260)).BeginInit();
-            this.panel22.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox261)).BeginInit();
             this.panel23.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox262)).BeginInit();
             this.panel24.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox263)).BeginInit();
             this.panel25.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox265)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox264)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox252)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox254)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox256)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox257)).BeginInit();
+            this.panel2.SuspendLayout();
+            this.menuStrip2.SuspendLayout();
+            this.menuStrip3.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            this.panel3.SuspendLayout();
+            this.panel17.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.menuStrip1.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ToolStripMenuItem3,
-            this.toolStripMenuItem4});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1067, 36);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // ToolStripMenuItem3
-            // 
-            this.ToolStripMenuItem3.ForeColor = System.Drawing.Color.White;
-            this.ToolStripMenuItem3.Margin = new System.Windows.Forms.Padding(350, 0, 0, 0);
-            this.ToolStripMenuItem3.Name = "ToolStripMenuItem3";
-            this.ToolStripMenuItem3.Size = new System.Drawing.Size(194, 32);
-            this.ToolStripMenuItem3.Text = "Материалы курса";
-            this.ToolStripMenuItem3.Click += new System.EventHandler(this.ToolStripMenuItem3_Click);
-            // 
-            // toolStripMenuItem4
-            // 
-            this.toolStripMenuItem4.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem4.Name = "toolStripMenuItem4";
-            this.toolStripMenuItem4.Size = new System.Drawing.Size(119, 32);
-            this.toolStripMenuItem4.Text = "Тренажер";
-            this.toolStripMenuItem4.Click += new System.EventHandler(this.toolStripMenuItem4_Click);
-            // 
-            // menuStrip2
-            // 
-            this.menuStrip2.AutoSize = false;
-            this.menuStrip2.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.menuStrip2.Dock = System.Windows.Forms.DockStyle.None;
-            this.menuStrip2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.menuStrip2.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.знакомствоСШахматнойДоскойToolStripMenuItem,
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem,
-            this.какХодятФигурыToolStripMenuItem,
-            this.рокировкаВШахматахToolStripMenuItem,
-            this.взятиеНаПроходеToolStripMenuItem,
-            this.шахВШахматахToolStripMenuItem,
-            this.матВШахматахToolStripMenuItem,
-            this.ничьяВШахматахToolStripMenuItem,
-            this.записьПартийВШахматахToolStripMenuItem,
-            this.какВыигратьВШахматыToolStripMenuItem});
-            this.menuStrip2.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Table;
-            this.menuStrip2.Location = new System.Drawing.Point(0, 36);
-            this.menuStrip2.Name = "menuStrip2";
-            this.menuStrip2.Size = new System.Drawing.Size(357, 518);
-            this.menuStrip2.TabIndex = 1;
-            this.menuStrip2.Text = "menuStrip2";
-            // 
-            // знакомствоСШахматнойДоскойToolStripMenuItem
-            // 
-            this.знакомствоСШахматнойДоскойToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.знакомствоСШахматнойДоскойToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.знакомствоСШахматнойДоскойToolStripMenuItem.Margin = new System.Windows.Forms.Padding(0, 50, 0, 0);
-            this.знакомствоСШахматнойДоскойToolStripMenuItem.Name = "знакомствоСШахматнойДоскойToolStripMenuItem";
-            this.знакомствоСШахматнойДоскойToolStripMenuItem.Size = new System.Drawing.Size(294, 25);
-            this.знакомствоСШахматнойДоскойToolStripMenuItem.Text = "1. Знакомство с шахматной доской";
-            this.знакомствоСШахматнойДоскойToolStripMenuItem.Click += new System.EventHandler(this.ЗнакомствоСШахматнойДоскойToolStripMenuItem_Click);
-            // 
-            // знакомствоСШахматнымиФигурамиToolStripMenuItem
-            // 
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Name = "знакомствоСШахматнымиФигурамиToolStripMenuItem";
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Size = new System.Drawing.Size(329, 25);
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Text = "2. Как расставить шахматы: инструкция";
-            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Click += new System.EventHandler(this.знакомствоСШахматнымиФигурамиToolStripMenuItem_Click);
-            // 
-            // какХодятФигурыToolStripMenuItem
-            // 
-            this.какХодятФигурыToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.пешкаToolStripMenuItem,
-            this.коньToolStripMenuItem,
-            this.слонToolStripMenuItem,
-            this.ладьяToolStripMenuItem,
-            this.ферзьToolStripMenuItem,
-            this.корольToolStripMenuItem});
-            this.какХодятФигурыToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.какХодятФигурыToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.какХодятФигурыToolStripMenuItem.Name = "какХодятФигурыToolStripMenuItem";
-            this.какХодятФигурыToolStripMenuItem.Size = new System.Drawing.Size(193, 25);
-            this.какХодятФигурыToolStripMenuItem.Text = "3. Как ходят фигуры?";
-            // 
-            // пешкаToolStripMenuItem
-            // 
-            this.пешкаToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.пешкаToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.пешкаToolStripMenuItem.Name = "пешкаToolStripMenuItem";
-            this.пешкаToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
-            this.пешкаToolStripMenuItem.Text = "Пешка";
-            this.пешкаToolStripMenuItem.Click += new System.EventHandler(this.пешкаToolStripMenuItem_Click);
-            // 
-            // коньToolStripMenuItem
-            // 
-            this.коньToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.коньToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.коньToolStripMenuItem.Name = "коньToolStripMenuItem";
-            this.коньToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
-            this.коньToolStripMenuItem.Text = "Конь";
-            this.коньToolStripMenuItem.Click += new System.EventHandler(this.коньToolStripMenuItem_Click);
-            // 
-            // слонToolStripMenuItem
-            // 
-            this.слонToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.слонToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.слонToolStripMenuItem.Name = "слонToolStripMenuItem";
-            this.слонToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
-            this.слонToolStripMenuItem.Text = "Слон";
-            this.слонToolStripMenuItem.Click += new System.EventHandler(this.слонToolStripMenuItem_Click);
-            // 
-            // ладьяToolStripMenuItem
-            // 
-            this.ладьяToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.ладьяToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.ладьяToolStripMenuItem.Name = "ладьяToolStripMenuItem";
-            this.ладьяToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
-            this.ладьяToolStripMenuItem.Text = "Ладья";
-            this.ладьяToolStripMenuItem.Click += new System.EventHandler(this.ладьяToolStripMenuItem_Click);
-            // 
-            // ферзьToolStripMenuItem
-            // 
-            this.ферзьToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.ферзьToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.ферзьToolStripMenuItem.Name = "ферзьToolStripMenuItem";
-            this.ферзьToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
-            this.ферзьToolStripMenuItem.Text = "Ферзь";
-            this.ферзьToolStripMenuItem.Click += new System.EventHandler(this.ферзьToolStripMenuItem_Click);
-            // 
-            // корольToolStripMenuItem
-            // 
-            this.корольToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.корольToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.корольToolStripMenuItem.Name = "корольToolStripMenuItem";
-            this.корольToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
-            this.корольToolStripMenuItem.Text = "Король";
-            this.корольToolStripMenuItem.Click += new System.EventHandler(this.корольToolStripMenuItem_Click);
-            // 
-            // рокировкаВШахматахToolStripMenuItem
-            // 
-            this.рокировкаВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.рокировкаВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.рокировкаВШахматахToolStripMenuItem.Name = "рокировкаВШахматахToolStripMenuItem";
-            this.рокировкаВШахматахToolStripMenuItem.Size = new System.Drawing.Size(215, 25);
-            this.рокировкаВШахматахToolStripMenuItem.Text = "4. Рокировка в шахматах";
-            this.рокировкаВШахматахToolStripMenuItem.Click += new System.EventHandler(this.рокировкаВШахматахToolStripMenuItem_Click);
-            // 
-            // взятиеНаПроходеToolStripMenuItem
-            // 
-            this.взятиеНаПроходеToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.взятиеНаПроходеToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.взятиеНаПроходеToolStripMenuItem.Name = "взятиеНаПроходеToolStripMenuItem";
-            this.взятиеНаПроходеToolStripMenuItem.Size = new System.Drawing.Size(188, 25);
-            this.взятиеНаПроходеToolStripMenuItem.Text = "5. Взятие на проходе";
-            this.взятиеНаПроходеToolStripMenuItem.Click += new System.EventHandler(this.взятиеНаПроходеToolStripMenuItem_Click);
-            // 
-            // шахВШахматахToolStripMenuItem
-            // 
-            this.шахВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.шахВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.шахВШахматахToolStripMenuItem.Name = "шахВШахматахToolStripMenuItem";
-            this.шахВШахматахToolStripMenuItem.Size = new System.Drawing.Size(172, 25);
-            this.шахВШахматахToolStripMenuItem.Text = "6. Шах в шахматах";
-            this.шахВШахматахToolStripMenuItem.Click += new System.EventHandler(this.шахВШахматахToolStripMenuItem_Click);
-            // 
-            // матВШахматахToolStripMenuItem
-            // 
-            this.матВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.матВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.матВШахматахToolStripMenuItem.Name = "матВШахматахToolStripMenuItem";
-            this.матВШахматахToolStripMenuItem.Size = new System.Drawing.Size(169, 25);
-            this.матВШахматахToolStripMenuItem.Text = "7. Мат в шахматах";
-            this.матВШахматахToolStripMenuItem.Click += new System.EventHandler(this.матВШахматахToolStripMenuItem_Click);
-            // 
-            // ничьяВШахматахToolStripMenuItem
-            // 
-            this.ничьяВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.ничьяВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.ничьяВШахматахToolStripMenuItem.Name = "ничьяВШахматахToolStripMenuItem";
-            this.ничьяВШахматахToolStripMenuItem.Size = new System.Drawing.Size(186, 25);
-            this.ничьяВШахматахToolStripMenuItem.Text = "8. Ничья в шахматах";
-            this.ничьяВШахматахToolStripMenuItem.Click += new System.EventHandler(this.ничьяВШахматахToolStripMenuItem_Click);
-            // 
-            // записьПартийВШахматахToolStripMenuItem
-            // 
-            this.записьПартийВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.записьПартийВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.записьПартийВШахматахToolStripMenuItem.Name = "записьПартийВШахматахToolStripMenuItem";
-            this.записьПартийВШахматахToolStripMenuItem.Size = new System.Drawing.Size(253, 25);
-            this.записьПартийВШахматахToolStripMenuItem.Text = "9. Запись партий в шахматах";
-            this.записьПартийВШахматахToolStripMenuItem.Click += new System.EventHandler(this.записьПартийВШахматахToolStripMenuItem_Click);
-            // 
-            // какВыигратьВШахматыToolStripMenuItem
-            // 
-            this.какВыигратьВШахматыToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.какВыигратьВШахматыToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.какВыигратьВШахматыToolStripMenuItem.Name = "какВыигратьВШахматыToolStripMenuItem";
-            this.какВыигратьВШахматыToolStripMenuItem.Size = new System.Drawing.Size(252, 25);
-            this.какВыигратьВШахматыToolStripMenuItem.Text = "10. Как выиграть в шахматы?";
-            this.какВыигратьВШахматыToolStripMenuItem.Click += new System.EventHandler(this.какВыигратьВШахматыToolStripMenuItem_Click);
-            // 
-            // panel3
-            // 
-            this.panel3.AutoScroll = true;
-            this.panel3.Controls.Add(this.pictureBox6);
-            this.panel3.Controls.Add(this.pictureBox5);
-            this.panel3.Controls.Add(this.pictureBox4);
-            this.panel3.Controls.Add(this.label16);
-            this.panel3.Controls.Add(this.label17);
-            this.panel3.Controls.Add(this.label18);
-            this.panel3.Controls.Add(this.label19);
-            this.panel3.Controls.Add(this.label20);
-            this.panel3.Controls.Add(this.label21);
-            this.panel3.Controls.Add(this.label22);
-            this.panel3.Controls.Add(this.label23);
-            this.panel3.Controls.Add(this.label24);
-            this.panel3.Controls.Add(this.label25);
-            this.panel3.Controls.Add(this.label26);
-            this.panel3.Controls.Add(this.pictureBox3);
-            this.panel3.Controls.Add(this.label27);
-            this.panel3.Controls.Add(this.label28);
-            this.panel3.Location = new System.Drawing.Point(374, 1296);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(690, 515);
-            this.panel3.TabIndex = 7;
-            this.panel3.Visible = false;
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(190, 2050);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox6.TabIndex = 16;
-            this.pictureBox6.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(190, 1454);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox5.TabIndex = 15;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(164, 802);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(357, 330);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 14;
-            this.pictureBox4.TabStop = false;
-            // 
-            // label16
-            // 
-            this.label16.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label16.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label16.Image = ((System.Drawing.Image)(resources.GetObject("label16.Image")));
-            this.label16.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label16.Location = new System.Drawing.Point(97, 2965);
-            this.label16.Name = "label16";
-            this.label16.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label16.Size = new System.Drawing.Size(515, 33);
-            this.label16.TabIndex = 13;
-            this.label16.Text = "Король: каждый игрок владеет только одним королем за всю игру.";
-            this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // label17
-            // 
-            this.label17.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label17.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label17.Image = ((System.Drawing.Image)(resources.GetObject("label17.Image")));
-            this.label17.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label17.Location = new System.Drawing.Point(97, 2925);
-            this.label17.Name = "label17";
-            this.label17.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label17.Size = new System.Drawing.Size(462, 33);
-            this.label17.TabIndex = 12;
-            this.label17.Text = "Ферзь: в начале игры у каждого игрока есть только один ферзь.";
-            this.label17.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // label18
-            // 
-            this.label18.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label18.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label18.Image = ((System.Drawing.Image)(resources.GetObject("label18.Image")));
-            this.label18.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label18.Location = new System.Drawing.Point(97, 2886);
-            this.label18.Name = "label18";
-            this.label18.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label18.Size = new System.Drawing.Size(471, 33);
-            this.label18.TabIndex = 11;
-            this.label18.Text = "Ладья: в начале игры у каждого игрока по 2 ладьи.";
-            this.label18.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // label19
-            // 
-            this.label19.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label19.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label19.Image = ((System.Drawing.Image)(resources.GetObject("label19.Image")));
-            this.label19.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label19.Location = new System.Drawing.Point(97, 2848);
-            this.label19.Name = "label19";
-            this.label19.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label19.Size = new System.Drawing.Size(462, 33);
-            this.label19.TabIndex = 10;
-            this.label19.Text = "Конь: у каждого игрока есть 2 коня в начале игры.";
-            this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // label20
-            // 
-            this.label20.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label20.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label20.Image = ((System.Drawing.Image)(resources.GetObject("label20.Image")));
-            this.label20.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label20.Location = new System.Drawing.Point(97, 2802);
-            this.label20.Name = "label20";
-            this.label20.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label20.Size = new System.Drawing.Size(476, 39);
-            this.label20.TabIndex = 9;
-            this.label20.Text = "Слон: у каждого игрока есть 2 слона в начале игры.";
-            this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // label21
-            // 
-            this.label21.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label21.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label21.Image = ((System.Drawing.Image)(resources.GetObject("label21.Image")));
-            this.label21.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label21.Location = new System.Drawing.Point(97, 2768);
-            this.label21.Name = "label21";
-            this.label21.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label21.Size = new System.Drawing.Size(476, 26);
-            this.label21.TabIndex = 8;
-            this.label21.Text = "Пешка: в начале игры у каждого игрока по 8 пешек.";
-            this.label21.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // label22
-            // 
-            this.label22.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label22.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label22.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label22.Location = new System.Drawing.Point(47, 2405);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(619, 347);
-            this.label22.TabIndex = 7;
-            this.label22.Text = resources.GetString("label22.Text");
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label23.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label23.Location = new System.Drawing.Point(103, 2364);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(503, 39);
-            this.label23.TabIndex = 6;
-            this.label23.Text = "Идентификация Шахматных Фигур\r\n";
-            // 
-            // label24
-            // 
-            this.label24.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label24.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label24.Location = new System.Drawing.Point(45, 1777);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(619, 271);
-            this.label24.TabIndex = 5;
-            this.label24.Text = resources.GetString("label24.Text");
-            // 
-            // label25
-            // 
-            this.label25.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label25.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label25.Location = new System.Drawing.Point(38, 1155);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(619, 296);
-            this.label25.TabIndex = 4;
-            this.label25.Text = resources.GetString("label25.Text");
-            // 
-            // label26
-            // 
-            this.label26.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label26.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label26.Location = new System.Drawing.Point(38, 502);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(619, 320);
-            this.label26.TabIndex = 3;
-            this.label26.Text = resources.GetString("label26.Text");
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(190, 185);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 2;
-            this.pictureBox3.TabStop = false;
-            // 
-            // label27
-            // 
-            this.label27.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label27.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label27.Location = new System.Drawing.Point(38, 85);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(619, 105);
-            this.label27.TabIndex = 1;
-            this.label27.Text = resources.GetString("label27.Text");
-            // 
-            // label28
-            // 
-            this.label28.AutoSize = true;
-            this.label28.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label28.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label28.Location = new System.Drawing.Point(87, 12);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(520, 39);
-            this.label28.TabIndex = 0;
-            this.label28.Text = "1. Знакомство с шахматной доской";
             // 
             // panel4
             // 
@@ -2685,295 +2222,6 @@
             this.label62.Size = new System.Drawing.Size(507, 39);
             this.label62.TabIndex = 0;
             this.label62.Text = "3.1 Как ходит пешка в шахматах?";
-            // 
-            // panel2
-            // 
-            this.panel2.AutoScroll = true;
-            this.panel2.Controls.Add(this.pictureBox257);
-            this.panel2.Controls.Add(this.pictureBox256);
-            this.panel2.Controls.Add(this.pictureBox255);
-            this.panel2.Controls.Add(this.pictureBox254);
-            this.panel2.Controls.Add(this.pictureBox253);
-            this.panel2.Controls.Add(this.pictureBox252);
-            this.panel2.Controls.Add(this.pictureBox9);
-            this.panel2.Controls.Add(this.pictureBox8);
-            this.panel2.Controls.Add(this.pictureBox7);
-            this.panel2.Controls.Add(this.label15);
-            this.panel2.Controls.Add(this.label14);
-            this.panel2.Controls.Add(this.label13);
-            this.panel2.Controls.Add(this.label12);
-            this.panel2.Controls.Add(this.label11);
-            this.panel2.Controls.Add(this.label10);
-            this.panel2.Controls.Add(this.label9);
-            this.panel2.Controls.Add(this.label8);
-            this.panel2.Controls.Add(this.label7);
-            this.panel2.Controls.Add(this.label6);
-            this.panel2.Controls.Add(this.label5);
-            this.panel2.Controls.Add(this.pictureBox2);
-            this.panel2.Controls.Add(this.label4);
-            this.panel2.Controls.Add(this.label3);
-            this.panel2.Location = new System.Drawing.Point(363, 39);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(703, 515);
-            this.panel2.TabIndex = 12;
-            this.panel2.Visible = false;
-            // 
-            // pictureBox257
-            // 
-            this.pictureBox257.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox257.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox257.Image")));
-            this.pictureBox257.Location = new System.Drawing.Point(41, 2898);
-            this.pictureBox257.Name = "pictureBox257";
-            this.pictureBox257.Size = new System.Drawing.Size(27, 26);
-            this.pictureBox257.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox257.TabIndex = 22;
-            this.pictureBox257.TabStop = false;
-            // 
-            // pictureBox256
-            // 
-            this.pictureBox256.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox256.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox256.Image")));
-            this.pictureBox256.Location = new System.Drawing.Point(41, 2862);
-            this.pictureBox256.Name = "pictureBox256";
-            this.pictureBox256.Size = new System.Drawing.Size(27, 26);
-            this.pictureBox256.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox256.TabIndex = 21;
-            this.pictureBox256.TabStop = false;
-            // 
-            // pictureBox255
-            // 
-            this.pictureBox255.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox255.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox255.Image")));
-            this.pictureBox255.Location = new System.Drawing.Point(41, 2785);
-            this.pictureBox255.Name = "pictureBox255";
-            this.pictureBox255.Size = new System.Drawing.Size(27, 26);
-            this.pictureBox255.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox255.TabIndex = 20;
-            this.pictureBox255.TabStop = false;
-            // 
-            // pictureBox254
-            // 
-            this.pictureBox254.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox254.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox254.Image")));
-            this.pictureBox254.Location = new System.Drawing.Point(41, 2827);
-            this.pictureBox254.Name = "pictureBox254";
-            this.pictureBox254.Size = new System.Drawing.Size(27, 26);
-            this.pictureBox254.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox254.TabIndex = 19;
-            this.pictureBox254.TabStop = false;
-            // 
-            // pictureBox253
-            // 
-            this.pictureBox253.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox253.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox253.Image")));
-            this.pictureBox253.Location = new System.Drawing.Point(41, 2742);
-            this.pictureBox253.Name = "pictureBox253";
-            this.pictureBox253.Size = new System.Drawing.Size(27, 26);
-            this.pictureBox253.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox253.TabIndex = 18;
-            this.pictureBox253.TabStop = false;
-            // 
-            // pictureBox252
-            // 
-            this.pictureBox252.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox252.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox252.Image")));
-            this.pictureBox252.Location = new System.Drawing.Point(41, 2705);
-            this.pictureBox252.Name = "pictureBox252";
-            this.pictureBox252.Size = new System.Drawing.Size(27, 26);
-            this.pictureBox252.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox252.TabIndex = 17;
-            this.pictureBox252.TabStop = false;
-            // 
-            // pictureBox9
-            // 
-            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
-            this.pictureBox9.Location = new System.Drawing.Point(203, 1984);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox9.TabIndex = 16;
-            this.pictureBox9.TabStop = false;
-            // 
-            // pictureBox8
-            // 
-            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
-            this.pictureBox8.Location = new System.Drawing.Point(203, 1396);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox8.TabIndex = 15;
-            this.pictureBox8.TabStop = false;
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
-            this.pictureBox7.Location = new System.Drawing.Point(203, 794);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox7.TabIndex = 14;
-            this.pictureBox7.TabStop = false;
-            // 
-            // label15
-            // 
-            this.label15.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label15.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label15.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label15.Location = new System.Drawing.Point(73, 2902);
-            this.label15.Name = "label15";
-            this.label15.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label15.Size = new System.Drawing.Size(445, 33);
-            this.label15.TabIndex = 13;
-            this.label15.Text = "Король: каждый игрок владеет только одним королем за всю игру.";
-            this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label14
-            // 
-            this.label14.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label14.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label14.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label14.Location = new System.Drawing.Point(73, 2862);
-            this.label14.Name = "label14";
-            this.label14.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label14.Size = new System.Drawing.Size(445, 33);
-            this.label14.TabIndex = 12;
-            this.label14.Text = "Ферзь: в начале игры у каждого игрока есть только один ферзь.";
-            this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label13
-            // 
-            this.label13.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label13.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label13.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label13.Location = new System.Drawing.Point(73, 2823);
-            this.label13.Name = "label13";
-            this.label13.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label13.Size = new System.Drawing.Size(445, 33);
-            this.label13.TabIndex = 11;
-            this.label13.Text = "Ладья: в начале игры у каждого игрока по 2 ладьи.";
-            this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label12
-            // 
-            this.label12.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label12.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label12.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label12.Location = new System.Drawing.Point(73, 2785);
-            this.label12.Name = "label12";
-            this.label12.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label12.Size = new System.Drawing.Size(445, 33);
-            this.label12.TabIndex = 10;
-            this.label12.Text = "Конь: у каждого игрока есть 2 коня в начале игры.";
-            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label11
-            // 
-            this.label11.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label11.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label11.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label11.Location = new System.Drawing.Point(73, 2739);
-            this.label11.Name = "label11";
-            this.label11.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label11.Size = new System.Drawing.Size(445, 39);
-            this.label11.TabIndex = 9;
-            this.label11.Text = "Слон: у каждого игрока есть 2 слона в начале игры.";
-            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label10
-            // 
-            this.label10.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label10.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label10.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label10.Location = new System.Drawing.Point(73, 2705);
-            this.label10.Name = "label10";
-            this.label10.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label10.Size = new System.Drawing.Size(445, 26);
-            this.label10.TabIndex = 8;
-            this.label10.Text = "Пешка: в начале игры у каждого игрока по 8 пешек.";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label9
-            // 
-            this.label9.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label9.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label9.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label9.Location = new System.Drawing.Point(42, 2352);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(619, 347);
-            this.label9.TabIndex = 7;
-            this.label9.Text = resources.GetString("label9.Text");
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label8.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label8.Location = new System.Drawing.Point(80, 2297);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(503, 39);
-            this.label8.TabIndex = 6;
-            this.label8.Text = "Идентификация Шахматных Фигур\r\n";
-            // 
-            // label7
-            // 
-            this.label7.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label7.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label7.Location = new System.Drawing.Point(35, 1710);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(619, 271);
-            this.label7.TabIndex = 5;
-            this.label7.Text = resources.GetString("label7.Text");
-            // 
-            // label6
-            // 
-            this.label6.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label6.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label6.Location = new System.Drawing.Point(35, 1104);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(619, 320);
-            this.label6.TabIndex = 4;
-            this.label6.Text = resources.GetString("label6.Text");
-            // 
-            // label5
-            // 
-            this.label5.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label5.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label5.Location = new System.Drawing.Point(36, 502);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(619, 320);
-            this.label5.TabIndex = 3;
-            this.label5.Text = resources.GetString("label5.Text");
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(190, 185);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 2;
-            this.pictureBox2.TabStop = false;
-            // 
-            // label4
-            // 
-            this.label4.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label4.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label4.Location = new System.Drawing.Point(38, 85);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(619, 105);
-            this.label4.TabIndex = 1;
-            this.label4.Text = resources.GetString("label4.Text");
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label3.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label3.Location = new System.Drawing.Point(87, 12);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(520, 39);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "1. Знакомство с шахматной доской";
             // 
             // label115
             // 
@@ -9791,193 +9039,6 @@
             this.label457.Text = "10. Как выиграть в шахматы? Правильный путь к совершенствованию";
             this.label457.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // menuStrip3
-            // 
-            this.menuStrip3.AutoSize = false;
-            this.menuStrip3.BackColor = System.Drawing.Color.MediumTurquoise;
-            this.menuStrip3.Dock = System.Windows.Forms.DockStyle.None;
-            this.menuStrip3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.menuStrip3.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.menuStrip3.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripMenuItem1,
-            this.toolStripMenuItem5,
-            this.toolStripMenuItem6,
-            this.toolStripMenuItem13,
-            this.toolStripMenuItem14,
-            this.toolStripMenuItem15,
-            this.toolStripMenuItem16,
-            this.toolStripMenuItem17,
-            this.toolStripMenuItem18});
-            this.menuStrip3.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Table;
-            this.menuStrip3.Location = new System.Drawing.Point(0, 36);
-            this.menuStrip3.Name = "menuStrip3";
-            this.menuStrip3.Size = new System.Drawing.Size(357, 518);
-            this.menuStrip3.TabIndex = 26;
-            this.menuStrip3.Text = "menuStrip3";
-            // 
-            // toolStripMenuItem1
-            // 
-            this.toolStripMenuItem1.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem1.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem1.Margin = new System.Windows.Forms.Padding(0, 50, 0, 0);
-            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(294, 25);
-            this.toolStripMenuItem1.Text = "1. Знакомство с шахматной доской";
-            // 
-            // toolStripMenuItem5
-            // 
-            this.toolStripMenuItem5.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem5.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem5.Name = "toolStripMenuItem5";
-            this.toolStripMenuItem5.Size = new System.Drawing.Size(329, 25);
-            this.toolStripMenuItem5.Text = "2. Как расставить шахматы: инструкция";
-            // 
-            // toolStripMenuItem6
-            // 
-            this.toolStripMenuItem6.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem6.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem6.Name = "toolStripMenuItem6";
-            this.toolStripMenuItem6.Size = new System.Drawing.Size(193, 25);
-            this.toolStripMenuItem6.Text = "3. Как ходят фигуры?";
-            this.toolStripMenuItem6.Click += new System.EventHandler(this.toolStripMenuItem6_Click);
-            // 
-            // toolStripMenuItem13
-            // 
-            this.toolStripMenuItem13.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem13.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem13.Name = "toolStripMenuItem13";
-            this.toolStripMenuItem13.Size = new System.Drawing.Size(215, 25);
-            this.toolStripMenuItem13.Text = "4. Рокировка в шахматах";
-            // 
-            // toolStripMenuItem14
-            // 
-            this.toolStripMenuItem14.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem14.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem14.Name = "toolStripMenuItem14";
-            this.toolStripMenuItem14.Size = new System.Drawing.Size(188, 25);
-            this.toolStripMenuItem14.Text = "5. Взятие на проходе";
-            // 
-            // toolStripMenuItem15
-            // 
-            this.toolStripMenuItem15.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem15.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem15.Name = "toolStripMenuItem15";
-            this.toolStripMenuItem15.Size = new System.Drawing.Size(172, 25);
-            this.toolStripMenuItem15.Text = "6. Шах в шахматах";
-            // 
-            // toolStripMenuItem16
-            // 
-            this.toolStripMenuItem16.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem16.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem16.Name = "toolStripMenuItem16";
-            this.toolStripMenuItem16.Size = new System.Drawing.Size(169, 25);
-            this.toolStripMenuItem16.Text = "7. Мат в шахматах";
-            // 
-            // toolStripMenuItem17
-            // 
-            this.toolStripMenuItem17.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem17.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem17.Name = "toolStripMenuItem17";
-            this.toolStripMenuItem17.Size = new System.Drawing.Size(186, 25);
-            this.toolStripMenuItem17.Text = "8. Ничья в шахматах";
-            // 
-            // toolStripMenuItem18
-            // 
-            this.toolStripMenuItem18.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.toolStripMenuItem18.ForeColor = System.Drawing.Color.White;
-            this.toolStripMenuItem18.Name = "toolStripMenuItem18";
-            this.toolStripMenuItem18.Size = new System.Drawing.Size(253, 25);
-            this.toolStripMenuItem18.Text = "9. Запись партий в шахматах";
-            this.toolStripMenuItem18.Click += new System.EventHandler(this.toolStripMenuItem18_Click);
-            // 
-            // panel17
-            // 
-            this.panel17.AutoScroll = true;
-            this.panel17.Controls.Add(this.pictureBox267);
-            this.panel17.Controls.Add(this.label465);
-            this.panel17.Controls.Add(this.label466);
-            this.panel17.Location = new System.Drawing.Point(363, 39);
-            this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(703, 515);
-            this.panel17.TabIndex = 27;
-            this.panel17.Visible = false;
-            // 
-            // pictureBox267
-            // 
-            this.pictureBox267.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox267.Image")));
-            this.pictureBox267.Location = new System.Drawing.Point(190, 198);
-            this.pictureBox267.Name = "pictureBox267";
-            this.pictureBox267.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox267.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox267.TabIndex = 2;
-            this.pictureBox267.TabStop = false;
-            // 
-            // label465
-            // 
-            this.label465.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label465.ForeColor = System.Drawing.Color.Teal;
-            this.label465.Location = new System.Drawing.Point(38, 98);
-            this.label465.Name = "label465";
-            this.label465.Size = new System.Drawing.Size(619, 105);
-            this.label465.TabIndex = 1;
-            this.label465.Text = resources.GetString("label465.Text");
-            // 
-            // label466
-            // 
-            this.label466.AutoSize = true;
-            this.label466.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label466.ForeColor = System.Drawing.Color.Teal;
-            this.label466.Location = new System.Drawing.Point(87, 12);
-            this.label466.Name = "label466";
-            this.label466.Size = new System.Drawing.Size(520, 78);
-            this.label466.TabIndex = 0;
-            this.label466.Text = "1. Знакомство с шахматной доской\r\n(Тренажер)";
-            this.label466.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // panel18
-            // 
-            this.panel18.AutoScroll = true;
-            this.panel18.Controls.Add(this.pictureBox258);
-            this.panel18.Controls.Add(this.label452);
-            this.panel18.Controls.Add(this.label453);
-            this.panel18.Location = new System.Drawing.Point(363, 39);
-            this.panel18.Name = "panel18";
-            this.panel18.Size = new System.Drawing.Size(703, 515);
-            this.panel18.TabIndex = 28;
-            this.panel18.Visible = false;
-            // 
-            // pictureBox258
-            // 
-            this.pictureBox258.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox258.Image")));
-            this.pictureBox258.Location = new System.Drawing.Point(190, 198);
-            this.pictureBox258.Name = "pictureBox258";
-            this.pictureBox258.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox258.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox258.TabIndex = 2;
-            this.pictureBox258.TabStop = false;
-            // 
-            // label452
-            // 
-            this.label452.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label452.ForeColor = System.Drawing.Color.Teal;
-            this.label452.Location = new System.Drawing.Point(38, 98);
-            this.label452.Name = "label452";
-            this.label452.Size = new System.Drawing.Size(619, 105);
-            this.label452.TabIndex = 1;
-            this.label452.Text = resources.GetString("label452.Text");
-            // 
-            // label453
-            // 
-            this.label453.AutoSize = true;
-            this.label453.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label453.ForeColor = System.Drawing.Color.Teal;
-            this.label453.Location = new System.Drawing.Point(56, 12);
-            this.label453.Name = "label453";
-            this.label453.Size = new System.Drawing.Size(582, 78);
-            this.label453.TabIndex = 0;
-            this.label453.Text = "2. Как расставить шахматы: инструкция\r\n(Тренажер)";
-            this.label453.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // panel19
             // 
             this.panel19.AutoScroll = true;
@@ -10023,14 +9084,13 @@
             this.label455.Name = "label455";
             this.label455.Size = new System.Drawing.Size(330, 78);
             this.label455.TabIndex = 0;
-            this.label455.Text = "3. Как ходят фигуры?\r\n(Тренажер)";
+            this.label455.Text = "2. Как ходят фигуры?\r\n(Тренажер)";
             this.label455.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel20
             // 
             this.panel20.AutoScroll = true;
-            this.panel20.Controls.Add(this.pictureBox259);
-            this.panel20.Controls.Add(this.label458);
+            this.panel20.Controls.Add(this.button5);
             this.panel20.Controls.Add(this.label459);
             this.panel20.Location = new System.Drawing.Point(363, 39);
             this.panel20.Name = "panel20";
@@ -10038,25 +9098,17 @@
             this.panel20.TabIndex = 30;
             this.panel20.Visible = false;
             // 
-            // pictureBox259
+            // button5
             // 
-            this.pictureBox259.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox259.Image")));
-            this.pictureBox259.Location = new System.Drawing.Point(190, 198);
-            this.pictureBox259.Name = "pictureBox259";
-            this.pictureBox259.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox259.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox259.TabIndex = 2;
-            this.pictureBox259.TabStop = false;
-            // 
-            // label458
-            // 
-            this.label458.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label458.ForeColor = System.Drawing.Color.Teal;
-            this.label458.Location = new System.Drawing.Point(38, 98);
-            this.label458.Name = "label458";
-            this.label458.Size = new System.Drawing.Size(619, 105);
-            this.label458.TabIndex = 1;
-            this.label458.Text = resources.GetString("label458.Text");
+            this.button5.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.button5.Font = new System.Drawing.Font("Comic Sans MS", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button5.Location = new System.Drawing.Point(219, 216);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(265, 82);
+            this.button5.TabIndex = 4;
+            this.button5.Text = "Нажмите, чтобы открыть тренажер";
+            this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // label459
             // 
@@ -10067,102 +9119,13 @@
             this.label459.Name = "label459";
             this.label459.Size = new System.Drawing.Size(374, 78);
             this.label459.TabIndex = 0;
-            this.label459.Text = "4. Рокировка в шахматах\r\n(Тренажер)";
+            this.label459.Text = "3. Рокировка в шахматах\r\n(Тренажер)";
             this.label459.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // panel21
-            // 
-            this.panel21.AutoScroll = true;
-            this.panel21.Controls.Add(this.pictureBox260);
-            this.panel21.Controls.Add(this.label460);
-            this.panel21.Controls.Add(this.label461);
-            this.panel21.Location = new System.Drawing.Point(363, 39);
-            this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(703, 515);
-            this.panel21.TabIndex = 31;
-            this.panel21.Visible = false;
-            // 
-            // pictureBox260
-            // 
-            this.pictureBox260.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox260.Image")));
-            this.pictureBox260.Location = new System.Drawing.Point(190, 198);
-            this.pictureBox260.Name = "pictureBox260";
-            this.pictureBox260.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox260.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox260.TabIndex = 2;
-            this.pictureBox260.TabStop = false;
-            // 
-            // label460
-            // 
-            this.label460.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label460.ForeColor = System.Drawing.Color.Teal;
-            this.label460.Location = new System.Drawing.Point(38, 98);
-            this.label460.Name = "label460";
-            this.label460.Size = new System.Drawing.Size(619, 105);
-            this.label460.TabIndex = 1;
-            this.label460.Text = resources.GetString("label460.Text");
-            // 
-            // label461
-            // 
-            this.label461.AutoSize = true;
-            this.label461.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label461.ForeColor = System.Drawing.Color.Teal;
-            this.label461.Location = new System.Drawing.Point(186, 12);
-            this.label461.Name = "label461";
-            this.label461.Size = new System.Drawing.Size(322, 78);
-            this.label461.TabIndex = 0;
-            this.label461.Text = "5. Взятие на проходе\r\n(Тренажер)";
-            this.label461.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // panel22
-            // 
-            this.panel22.AutoScroll = true;
-            this.panel22.Controls.Add(this.pictureBox261);
-            this.panel22.Controls.Add(this.label462);
-            this.panel22.Controls.Add(this.label463);
-            this.panel22.Location = new System.Drawing.Point(363, 39);
-            this.panel22.Name = "panel22";
-            this.panel22.Size = new System.Drawing.Size(703, 515);
-            this.panel22.TabIndex = 32;
-            this.panel22.Visible = false;
-            // 
-            // pictureBox261
-            // 
-            this.pictureBox261.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox261.Image")));
-            this.pictureBox261.Location = new System.Drawing.Point(190, 198);
-            this.pictureBox261.Name = "pictureBox261";
-            this.pictureBox261.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox261.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox261.TabIndex = 2;
-            this.pictureBox261.TabStop = false;
-            // 
-            // label462
-            // 
-            this.label462.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label462.ForeColor = System.Drawing.Color.Teal;
-            this.label462.Location = new System.Drawing.Point(38, 98);
-            this.label462.Name = "label462";
-            this.label462.Size = new System.Drawing.Size(619, 105);
-            this.label462.TabIndex = 1;
-            this.label462.Text = resources.GetString("label462.Text");
-            // 
-            // label463
-            // 
-            this.label463.AutoSize = true;
-            this.label463.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label463.ForeColor = System.Drawing.Color.Teal;
-            this.label463.Location = new System.Drawing.Point(201, 12);
-            this.label463.Name = "label463";
-            this.label463.Size = new System.Drawing.Size(292, 78);
-            this.label463.TabIndex = 0;
-            this.label463.Text = "6. Шах в шахматах\r\n(Тренажер)";
-            this.label463.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel23
             // 
             this.panel23.AutoScroll = true;
-            this.panel23.Controls.Add(this.pictureBox262);
-            this.panel23.Controls.Add(this.label464);
+            this.panel23.Controls.Add(this.button3);
             this.panel23.Controls.Add(this.label467);
             this.panel23.Location = new System.Drawing.Point(363, 40);
             this.panel23.Name = "panel23";
@@ -10170,25 +9133,17 @@
             this.panel23.TabIndex = 33;
             this.panel23.Visible = false;
             // 
-            // pictureBox262
+            // button3
             // 
-            this.pictureBox262.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox262.Image")));
-            this.pictureBox262.Location = new System.Drawing.Point(190, 198);
-            this.pictureBox262.Name = "pictureBox262";
-            this.pictureBox262.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox262.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox262.TabIndex = 2;
-            this.pictureBox262.TabStop = false;
-            // 
-            // label464
-            // 
-            this.label464.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label464.ForeColor = System.Drawing.Color.Teal;
-            this.label464.Location = new System.Drawing.Point(38, 98);
-            this.label464.Name = "label464";
-            this.label464.Size = new System.Drawing.Size(619, 105);
-            this.label464.TabIndex = 1;
-            this.label464.Text = resources.GetString("label464.Text");
+            this.button3.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.button3.Font = new System.Drawing.Font("Comic Sans MS", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button3.Location = new System.Drawing.Point(220, 185);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(265, 82);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "Нажмите, чтобы открыть тренажер";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label467
             // 
@@ -10199,14 +9154,13 @@
             this.label467.Name = "label467";
             this.label467.Size = new System.Drawing.Size(288, 78);
             this.label467.TabIndex = 0;
-            this.label467.Text = "7. Мат в шахматах\r\n(Тренажер)";
+            this.label467.Text = "4. Мат в шахматах\r\n(Тренажер)";
             this.label467.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel24
             // 
             this.panel24.AutoScroll = true;
-            this.panel24.Controls.Add(this.pictureBox263);
-            this.panel24.Controls.Add(this.label468);
+            this.panel24.Controls.Add(this.button2);
             this.panel24.Controls.Add(this.label469);
             this.panel24.Location = new System.Drawing.Point(363, 39);
             this.panel24.Name = "panel24";
@@ -10214,25 +9168,17 @@
             this.panel24.TabIndex = 34;
             this.panel24.Visible = false;
             // 
-            // pictureBox263
+            // button2
             // 
-            this.pictureBox263.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox263.Image")));
-            this.pictureBox263.Location = new System.Drawing.Point(190, 198);
-            this.pictureBox263.Name = "pictureBox263";
-            this.pictureBox263.Size = new System.Drawing.Size(314, 307);
-            this.pictureBox263.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox263.TabIndex = 2;
-            this.pictureBox263.TabStop = false;
-            // 
-            // label468
-            // 
-            this.label468.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label468.ForeColor = System.Drawing.Color.Teal;
-            this.label468.Location = new System.Drawing.Point(38, 98);
-            this.label468.Name = "label468";
-            this.label468.Size = new System.Drawing.Size(619, 105);
-            this.label468.TabIndex = 1;
-            this.label468.Text = resources.GetString("label468.Text");
+            this.button2.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.button2.Font = new System.Drawing.Font("Comic Sans MS", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button2.Location = new System.Drawing.Point(230, 175);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(265, 82);
+            this.button2.TabIndex = 12;
+            this.button2.Text = "Нажмите, чтобы открыть тренажер";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label469
             // 
@@ -10243,19 +9189,15 @@
             this.label469.Name = "label469";
             this.label469.Size = new System.Drawing.Size(317, 78);
             this.label469.TabIndex = 0;
-            this.label469.Text = "8. Ничья в шахматах\r\n(Тренажер)";
+            this.label469.Text = "5. Ничья в шахматах\r\n(Тренажер)";
             this.label469.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel25
             // 
             this.panel25.AutoScroll = true;
             this.panel25.Controls.Add(this.button4);
-            this.panel25.Controls.Add(this.label475);
-            this.panel25.Controls.Add(this.label473);
             this.panel25.Controls.Add(this.textBox2);
             this.panel25.Controls.Add(this.textBox1);
-            this.panel25.Controls.Add(this.button3);
-            this.panel25.Controls.Add(this.button2);
             this.panel25.Controls.Add(this.pictureBox265);
             this.panel25.Controls.Add(this.pictureBox264);
             this.panel25.Controls.Add(this.label472);
@@ -10279,67 +9221,27 @@
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // label475
-            // 
-            this.label475.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label475.ForeColor = System.Drawing.Color.Teal;
-            this.label475.Location = new System.Drawing.Point(319, 435);
-            this.label475.Name = "label475";
-            this.label475.Size = new System.Drawing.Size(117, 92);
-            this.label475.TabIndex = 10;
-            this.label475.Text = "       /\\\r\n        |\r\nХод черных";
-            // 
-            // label473
-            // 
-            this.label473.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label473.ForeColor = System.Drawing.Color.Teal;
-            this.label473.Location = new System.Drawing.Point(3, 438);
-            this.label473.Name = "label473";
-            this.label473.Size = new System.Drawing.Size(117, 92);
-            this.label473.TabIndex = 9;
-            this.label473.Text = "       /\\\r\n        |\r\nХод белых";
-            // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox2.Location = new System.Drawing.Point(382, 404);
+            this.textBox2.Location = new System.Drawing.Point(383, 404);
+            this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(231, 31);
+            this.textBox2.Size = new System.Drawing.Size(231, 111);
             this.textBox2.TabIndex = 8;
-            this.textBox2.Text = "1. ... Сс5 2. Кре3 е5";
+            this.textBox2.Text = "2. Крf2; 4. Лd4; 6. Сd6; 7. e7; 8. Крh8";
             // 
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBox1.Location = new System.Drawing.Point(64, 404);
+            this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(231, 31);
+            this.textBox1.Size = new System.Drawing.Size(231, 111);
             this.textBox1.TabIndex = 7;
-            this.textBox1.Text = "1. Фd6 Л:f7 2. Ф:d8";
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.Black;
-            this.button3.ForeColor = System.Drawing.Color.Black;
-            this.button3.Location = new System.Drawing.Point(355, 408);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(21, 23);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = false;
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.White;
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(37, 408);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(21, 23);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = false;
+            this.textBox1.Text = "2. g2, Крh2; 3. Фa3, h3; 5. a5; 6. b6; 7. Крa7, Лd7, Лf7; 8. Фd8";
             // 
             // pictureBox265
             // 
@@ -10390,14 +9292,844 @@
             this.label471.Name = "label471";
             this.label471.Size = new System.Drawing.Size(441, 78);
             this.label471.TabIndex = 0;
-            this.label471.Text = "9. Запись партий в шахматах\r\n(Тренажер)";
+            this.label471.Text = "6. Запись партий в шахматах\r\n(Тренажер)";
             this.label471.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label3.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label3.Location = new System.Drawing.Point(87, 12);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(520, 39);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "1. Знакомство с шахматной доской";
+            // 
+            // label4
+            // 
+            this.label4.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label4.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label4.Location = new System.Drawing.Point(38, 85);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(619, 105);
+            this.label4.TabIndex = 1;
+            this.label4.Text = resources.GetString("label4.Text");
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(190, 185);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(314, 307);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 2;
+            this.pictureBox2.TabStop = false;
+            // 
+            // label5
+            // 
+            this.label5.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label5.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label5.Location = new System.Drawing.Point(36, 502);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(619, 320);
+            this.label5.TabIndex = 3;
+            this.label5.Text = resources.GetString("label5.Text");
+            // 
+            // label6
+            // 
+            this.label6.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label6.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label6.Location = new System.Drawing.Point(35, 1104);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(619, 320);
+            this.label6.TabIndex = 4;
+            this.label6.Text = resources.GetString("label6.Text");
+            // 
+            // label7
+            // 
+            this.label7.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label7.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label7.Location = new System.Drawing.Point(35, 1710);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(619, 271);
+            this.label7.TabIndex = 5;
+            this.label7.Text = resources.GetString("label7.Text");
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label8.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label8.Location = new System.Drawing.Point(80, 2297);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(503, 39);
+            this.label8.TabIndex = 6;
+            this.label8.Text = "Идентификация Шахматных Фигур\r\n";
+            // 
+            // label9
+            // 
+            this.label9.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label9.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label9.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.label9.Location = new System.Drawing.Point(42, 2352);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(619, 347);
+            this.label9.TabIndex = 7;
+            this.label9.Text = resources.GetString("label9.Text");
+            // 
+            // label10
+            // 
+            this.label10.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label10.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label10.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label10.Location = new System.Drawing.Point(73, 2705);
+            this.label10.Name = "label10";
+            this.label10.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label10.Size = new System.Drawing.Size(445, 26);
+            this.label10.TabIndex = 8;
+            this.label10.Text = "Пешка: в начале игры у каждого игрока по 8 пешек.";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label11
+            // 
+            this.label11.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label11.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label11.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label11.Location = new System.Drawing.Point(73, 2739);
+            this.label11.Name = "label11";
+            this.label11.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label11.Size = new System.Drawing.Size(445, 39);
+            this.label11.TabIndex = 9;
+            this.label11.Text = "Слон: у каждого игрока есть 2 слона в начале игры.";
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label12
+            // 
+            this.label12.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label12.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label12.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label12.Location = new System.Drawing.Point(73, 2785);
+            this.label12.Name = "label12";
+            this.label12.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label12.Size = new System.Drawing.Size(445, 33);
+            this.label12.TabIndex = 10;
+            this.label12.Text = "Конь: у каждого игрока есть 2 коня в начале игры.";
+            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label13
+            // 
+            this.label13.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label13.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label13.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label13.Location = new System.Drawing.Point(73, 2823);
+            this.label13.Name = "label13";
+            this.label13.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label13.Size = new System.Drawing.Size(445, 33);
+            this.label13.TabIndex = 11;
+            this.label13.Text = "Ладья: в начале игры у каждого игрока по 2 ладьи.";
+            this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label14
+            // 
+            this.label14.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label14.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label14.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label14.Location = new System.Drawing.Point(73, 2862);
+            this.label14.Name = "label14";
+            this.label14.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label14.Size = new System.Drawing.Size(445, 33);
+            this.label14.TabIndex = 12;
+            this.label14.Text = "Ферзь: в начале игры у каждого игрока есть только один ферзь.";
+            this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label15
+            // 
+            this.label15.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label15.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label15.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label15.Location = new System.Drawing.Point(73, 2902);
+            this.label15.Name = "label15";
+            this.label15.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label15.Size = new System.Drawing.Size(445, 33);
+            this.label15.TabIndex = 13;
+            this.label15.Text = "Король: каждый игрок владеет только одним королем за всю игру.";
+            this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
+            this.pictureBox7.Location = new System.Drawing.Point(203, 794);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(314, 307);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox7.TabIndex = 14;
+            this.pictureBox7.TabStop = false;
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+            this.pictureBox8.Location = new System.Drawing.Point(203, 1396);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(314, 307);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox8.TabIndex = 15;
+            this.pictureBox8.TabStop = false;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
+            this.pictureBox9.Location = new System.Drawing.Point(203, 1984);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(314, 307);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox9.TabIndex = 16;
+            this.pictureBox9.TabStop = false;
+            // 
+            // pictureBox252
+            // 
+            this.pictureBox252.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox252.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox252.Image")));
+            this.pictureBox252.Location = new System.Drawing.Point(41, 2705);
+            this.pictureBox252.Name = "pictureBox252";
+            this.pictureBox252.Size = new System.Drawing.Size(27, 26);
+            this.pictureBox252.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox252.TabIndex = 17;
+            this.pictureBox252.TabStop = false;
+            // 
+            // pictureBox253
+            // 
+            this.pictureBox253.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox253.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox253.Image")));
+            this.pictureBox253.Location = new System.Drawing.Point(41, 2742);
+            this.pictureBox253.Name = "pictureBox253";
+            this.pictureBox253.Size = new System.Drawing.Size(27, 26);
+            this.pictureBox253.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox253.TabIndex = 18;
+            this.pictureBox253.TabStop = false;
+            // 
+            // pictureBox254
+            // 
+            this.pictureBox254.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox254.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox254.Image")));
+            this.pictureBox254.Location = new System.Drawing.Point(41, 2827);
+            this.pictureBox254.Name = "pictureBox254";
+            this.pictureBox254.Size = new System.Drawing.Size(27, 26);
+            this.pictureBox254.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox254.TabIndex = 19;
+            this.pictureBox254.TabStop = false;
+            // 
+            // pictureBox255
+            // 
+            this.pictureBox255.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox255.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox255.Image")));
+            this.pictureBox255.Location = new System.Drawing.Point(41, 2785);
+            this.pictureBox255.Name = "pictureBox255";
+            this.pictureBox255.Size = new System.Drawing.Size(27, 26);
+            this.pictureBox255.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox255.TabIndex = 20;
+            this.pictureBox255.TabStop = false;
+            // 
+            // pictureBox256
+            // 
+            this.pictureBox256.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox256.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox256.Image")));
+            this.pictureBox256.Location = new System.Drawing.Point(41, 2862);
+            this.pictureBox256.Name = "pictureBox256";
+            this.pictureBox256.Size = new System.Drawing.Size(27, 26);
+            this.pictureBox256.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox256.TabIndex = 21;
+            this.pictureBox256.TabStop = false;
+            // 
+            // pictureBox257
+            // 
+            this.pictureBox257.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox257.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox257.Image")));
+            this.pictureBox257.Location = new System.Drawing.Point(41, 2898);
+            this.pictureBox257.Name = "pictureBox257";
+            this.pictureBox257.Size = new System.Drawing.Size(27, 26);
+            this.pictureBox257.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox257.TabIndex = 22;
+            this.pictureBox257.TabStop = false;
+            // 
+            // panel2
+            // 
+            this.panel2.AutoScroll = true;
+            this.panel2.Controls.Add(this.pictureBox257);
+            this.panel2.Controls.Add(this.pictureBox256);
+            this.panel2.Controls.Add(this.pictureBox255);
+            this.panel2.Controls.Add(this.pictureBox254);
+            this.panel2.Controls.Add(this.pictureBox253);
+            this.panel2.Controls.Add(this.pictureBox252);
+            this.panel2.Controls.Add(this.pictureBox9);
+            this.panel2.Controls.Add(this.pictureBox8);
+            this.panel2.Controls.Add(this.pictureBox7);
+            this.panel2.Controls.Add(this.label15);
+            this.panel2.Controls.Add(this.label14);
+            this.panel2.Controls.Add(this.label13);
+            this.panel2.Controls.Add(this.label12);
+            this.panel2.Controls.Add(this.label11);
+            this.panel2.Controls.Add(this.label10);
+            this.panel2.Controls.Add(this.label9);
+            this.panel2.Controls.Add(this.label8);
+            this.panel2.Controls.Add(this.label7);
+            this.panel2.Controls.Add(this.label6);
+            this.panel2.Controls.Add(this.label5);
+            this.panel2.Controls.Add(this.pictureBox2);
+            this.panel2.Controls.Add(this.label4);
+            this.panel2.Controls.Add(this.label3);
+            this.panel2.Location = new System.Drawing.Point(363, 39);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(703, 515);
+            this.panel2.TabIndex = 12;
+            this.panel2.Visible = false;
+            // 
+            // знакомствоСШахматнойДоскойToolStripMenuItem
+            // 
+            this.знакомствоСШахматнойДоскойToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.знакомствоСШахматнойДоскойToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.знакомствоСШахматнойДоскойToolStripMenuItem.Margin = new System.Windows.Forms.Padding(0, 50, 0, 0);
+            this.знакомствоСШахматнойДоскойToolStripMenuItem.Name = "знакомствоСШахматнойДоскойToolStripMenuItem";
+            this.знакомствоСШахматнойДоскойToolStripMenuItem.Size = new System.Drawing.Size(294, 25);
+            this.знакомствоСШахматнойДоскойToolStripMenuItem.Text = "1. Знакомство с шахматной доской";
+            this.знакомствоСШахматнойДоскойToolStripMenuItem.Click += new System.EventHandler(this.ЗнакомствоСШахматнойДоскойToolStripMenuItem_Click);
+            // 
+            // знакомствоСШахматнымиФигурамиToolStripMenuItem
+            // 
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Name = "знакомствоСШахматнымиФигурамиToolStripMenuItem";
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Size = new System.Drawing.Size(329, 25);
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Text = "2. Как расставить шахматы: инструкция";
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem.Click += new System.EventHandler(this.знакомствоСШахматнымиФигурамиToolStripMenuItem_Click);
+            // 
+            // какХодятФигурыToolStripMenuItem
+            // 
+            this.какХодятФигурыToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.пешкаToolStripMenuItem,
+            this.коньToolStripMenuItem,
+            this.слонToolStripMenuItem,
+            this.ладьяToolStripMenuItem,
+            this.ферзьToolStripMenuItem,
+            this.корольToolStripMenuItem});
+            this.какХодятФигурыToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.какХодятФигурыToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.какХодятФигурыToolStripMenuItem.Name = "какХодятФигурыToolStripMenuItem";
+            this.какХодятФигурыToolStripMenuItem.Size = new System.Drawing.Size(193, 25);
+            this.какХодятФигурыToolStripMenuItem.Text = "3. Как ходят фигуры?";
+            // 
+            // пешкаToolStripMenuItem
+            // 
+            this.пешкаToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.пешкаToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.пешкаToolStripMenuItem.Name = "пешкаToolStripMenuItem";
+            this.пешкаToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
+            this.пешкаToolStripMenuItem.Text = "Пешка";
+            this.пешкаToolStripMenuItem.Click += new System.EventHandler(this.пешкаToolStripMenuItem_Click);
+            // 
+            // коньToolStripMenuItem
+            // 
+            this.коньToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.коньToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.коньToolStripMenuItem.Name = "коньToolStripMenuItem";
+            this.коньToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
+            this.коньToolStripMenuItem.Text = "Конь";
+            this.коньToolStripMenuItem.Click += new System.EventHandler(this.коньToolStripMenuItem_Click);
+            // 
+            // слонToolStripMenuItem
+            // 
+            this.слонToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.слонToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.слонToolStripMenuItem.Name = "слонToolStripMenuItem";
+            this.слонToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
+            this.слонToolStripMenuItem.Text = "Слон";
+            this.слонToolStripMenuItem.Click += new System.EventHandler(this.слонToolStripMenuItem_Click);
+            // 
+            // ладьяToolStripMenuItem
+            // 
+            this.ладьяToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.ладьяToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.ладьяToolStripMenuItem.Name = "ладьяToolStripMenuItem";
+            this.ладьяToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
+            this.ладьяToolStripMenuItem.Text = "Ладья";
+            this.ладьяToolStripMenuItem.Click += new System.EventHandler(this.ладьяToolStripMenuItem_Click);
+            // 
+            // ферзьToolStripMenuItem
+            // 
+            this.ферзьToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.ферзьToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.ферзьToolStripMenuItem.Name = "ферзьToolStripMenuItem";
+            this.ферзьToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
+            this.ферзьToolStripMenuItem.Text = "Ферзь";
+            this.ферзьToolStripMenuItem.Click += new System.EventHandler(this.ферзьToolStripMenuItem_Click);
+            // 
+            // корольToolStripMenuItem
+            // 
+            this.корольToolStripMenuItem.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.корольToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.корольToolStripMenuItem.Name = "корольToolStripMenuItem";
+            this.корольToolStripMenuItem.Size = new System.Drawing.Size(147, 26);
+            this.корольToolStripMenuItem.Text = "Король";
+            this.корольToolStripMenuItem.Click += new System.EventHandler(this.корольToolStripMenuItem_Click);
+            // 
+            // рокировкаВШахматахToolStripMenuItem
+            // 
+            this.рокировкаВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.рокировкаВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.рокировкаВШахматахToolStripMenuItem.Name = "рокировкаВШахматахToolStripMenuItem";
+            this.рокировкаВШахматахToolStripMenuItem.Size = new System.Drawing.Size(215, 25);
+            this.рокировкаВШахматахToolStripMenuItem.Text = "4. Рокировка в шахматах";
+            this.рокировкаВШахматахToolStripMenuItem.Click += new System.EventHandler(this.рокировкаВШахматахToolStripMenuItem_Click);
+            // 
+            // взятиеНаПроходеToolStripMenuItem
+            // 
+            this.взятиеНаПроходеToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.взятиеНаПроходеToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.взятиеНаПроходеToolStripMenuItem.Name = "взятиеНаПроходеToolStripMenuItem";
+            this.взятиеНаПроходеToolStripMenuItem.Size = new System.Drawing.Size(188, 25);
+            this.взятиеНаПроходеToolStripMenuItem.Text = "5. Взятие на проходе";
+            this.взятиеНаПроходеToolStripMenuItem.Click += new System.EventHandler(this.взятиеНаПроходеToolStripMenuItem_Click);
+            // 
+            // шахВШахматахToolStripMenuItem
+            // 
+            this.шахВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.шахВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.шахВШахматахToolStripMenuItem.Name = "шахВШахматахToolStripMenuItem";
+            this.шахВШахматахToolStripMenuItem.Size = new System.Drawing.Size(172, 25);
+            this.шахВШахматахToolStripMenuItem.Text = "6. Шах в шахматах";
+            this.шахВШахматахToolStripMenuItem.Click += new System.EventHandler(this.шахВШахматахToolStripMenuItem_Click);
+            // 
+            // матВШахматахToolStripMenuItem
+            // 
+            this.матВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.матВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.матВШахматахToolStripMenuItem.Name = "матВШахматахToolStripMenuItem";
+            this.матВШахматахToolStripMenuItem.Size = new System.Drawing.Size(169, 25);
+            this.матВШахматахToolStripMenuItem.Text = "7. Мат в шахматах";
+            this.матВШахматахToolStripMenuItem.Click += new System.EventHandler(this.матВШахматахToolStripMenuItem_Click);
+            // 
+            // ничьяВШахматахToolStripMenuItem
+            // 
+            this.ничьяВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.ничьяВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.ничьяВШахматахToolStripMenuItem.Name = "ничьяВШахматахToolStripMenuItem";
+            this.ничьяВШахматахToolStripMenuItem.Size = new System.Drawing.Size(186, 25);
+            this.ничьяВШахматахToolStripMenuItem.Text = "8. Ничья в шахматах";
+            this.ничьяВШахматахToolStripMenuItem.Click += new System.EventHandler(this.ничьяВШахматахToolStripMenuItem_Click);
+            // 
+            // записьПартийВШахматахToolStripMenuItem
+            // 
+            this.записьПартийВШахматахToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.записьПартийВШахматахToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.записьПартийВШахматахToolStripMenuItem.Name = "записьПартийВШахматахToolStripMenuItem";
+            this.записьПартийВШахматахToolStripMenuItem.Size = new System.Drawing.Size(253, 25);
+            this.записьПартийВШахматахToolStripMenuItem.Text = "9. Запись партий в шахматах";
+            this.записьПартийВШахматахToolStripMenuItem.Click += new System.EventHandler(this.записьПартийВШахматахToolStripMenuItem_Click);
+            // 
+            // какВыигратьВШахматыToolStripMenuItem
+            // 
+            this.какВыигратьВШахматыToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.какВыигратьВШахматыToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.какВыигратьВШахматыToolStripMenuItem.Name = "какВыигратьВШахматыToolStripMenuItem";
+            this.какВыигратьВШахматыToolStripMenuItem.Size = new System.Drawing.Size(252, 25);
+            this.какВыигратьВШахматыToolStripMenuItem.Text = "10. Как выиграть в шахматы?";
+            this.какВыигратьВШахматыToolStripMenuItem.Click += new System.EventHandler(this.какВыигратьВШахматыToolStripMenuItem_Click);
+            // 
+            // menuStrip2
+            // 
+            this.menuStrip2.AutoSize = false;
+            this.menuStrip2.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.menuStrip2.Dock = System.Windows.Forms.DockStyle.None;
+            this.menuStrip2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.menuStrip2.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.знакомствоСШахматнойДоскойToolStripMenuItem,
+            this.знакомствоСШахматнымиФигурамиToolStripMenuItem,
+            this.какХодятФигурыToolStripMenuItem,
+            this.рокировкаВШахматахToolStripMenuItem,
+            this.взятиеНаПроходеToolStripMenuItem,
+            this.шахВШахматахToolStripMenuItem,
+            this.матВШахматахToolStripMenuItem,
+            this.ничьяВШахматахToolStripMenuItem,
+            this.записьПартийВШахматахToolStripMenuItem,
+            this.какВыигратьВШахматыToolStripMenuItem});
+            this.menuStrip2.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Table;
+            this.menuStrip2.Location = new System.Drawing.Point(0, 36);
+            this.menuStrip2.Name = "menuStrip2";
+            this.menuStrip2.Size = new System.Drawing.Size(357, 518);
+            this.menuStrip2.TabIndex = 1;
+            this.menuStrip2.Text = "menuStrip2";
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.toolStripMenuItem1.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItem1.Margin = new System.Windows.Forms.Padding(0, 50, 0, 0);
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(294, 25);
+            this.toolStripMenuItem1.Text = "1. Знакомство с шахматной доской";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
+            // 
+            // toolStripMenuItem6
+            // 
+            this.toolStripMenuItem6.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.toolStripMenuItem6.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItem6.Name = "toolStripMenuItem6";
+            this.toolStripMenuItem6.Size = new System.Drawing.Size(193, 25);
+            this.toolStripMenuItem6.Text = "2. Как ходят фигуры?";
+            this.toolStripMenuItem6.Click += new System.EventHandler(this.toolStripMenuItem6_Click);
+            // 
+            // toolStripMenuItem13
+            // 
+            this.toolStripMenuItem13.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.toolStripMenuItem13.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItem13.Name = "toolStripMenuItem13";
+            this.toolStripMenuItem13.Size = new System.Drawing.Size(215, 25);
+            this.toolStripMenuItem13.Text = "3. Рокировка в шахматах";
+            this.toolStripMenuItem13.Click += new System.EventHandler(this.toolStripMenuItem13_Click);
+            // 
+            // toolStripMenuItem16
+            // 
+            this.toolStripMenuItem16.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.toolStripMenuItem16.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItem16.Name = "toolStripMenuItem16";
+            this.toolStripMenuItem16.Size = new System.Drawing.Size(169, 25);
+            this.toolStripMenuItem16.Text = "4. Мат в шахматах";
+            this.toolStripMenuItem16.Click += new System.EventHandler(this.toolStripMenuItem16_Click);
+            // 
+            // toolStripMenuItem17
+            // 
+            this.toolStripMenuItem17.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.toolStripMenuItem17.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItem17.Name = "toolStripMenuItem17";
+            this.toolStripMenuItem17.Size = new System.Drawing.Size(186, 25);
+            this.toolStripMenuItem17.Text = "5. Ничья в шахматах";
+            this.toolStripMenuItem17.Click += new System.EventHandler(this.toolStripMenuItem17_Click);
+            // 
+            // toolStripMenuItem18
+            // 
+            this.toolStripMenuItem18.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.toolStripMenuItem18.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItem18.Name = "toolStripMenuItem18";
+            this.toolStripMenuItem18.Size = new System.Drawing.Size(253, 25);
+            this.toolStripMenuItem18.Text = "6. Запись партий в шахматах";
+            this.toolStripMenuItem18.Click += new System.EventHandler(this.toolStripMenuItem18_Click);
+            // 
+            // menuStrip3
+            // 
+            this.menuStrip3.AutoSize = false;
+            this.menuStrip3.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.menuStrip3.Dock = System.Windows.Forms.DockStyle.None;
+            this.menuStrip3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.menuStrip3.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip3.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripMenuItem1,
+            this.toolStripMenuItem6,
+            this.toolStripMenuItem13,
+            this.toolStripMenuItem16,
+            this.toolStripMenuItem17,
+            this.toolStripMenuItem18});
+            this.menuStrip3.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Table;
+            this.menuStrip3.Location = new System.Drawing.Point(0, 36);
+            this.menuStrip3.Name = "menuStrip3";
+            this.menuStrip3.Size = new System.Drawing.Size(357, 518);
+            this.menuStrip3.TabIndex = 26;
+            this.menuStrip3.Text = "menuStrip3";
+            // 
+            // ToolStripMenuItem3
+            // 
+            this.ToolStripMenuItem3.ForeColor = System.Drawing.Color.White;
+            this.ToolStripMenuItem3.Margin = new System.Windows.Forms.Padding(350, 0, 0, 0);
+            this.ToolStripMenuItem3.Name = "ToolStripMenuItem3";
+            this.ToolStripMenuItem3.Size = new System.Drawing.Size(194, 32);
+            this.ToolStripMenuItem3.Text = "Материалы курса";
+            this.ToolStripMenuItem3.Click += new System.EventHandler(this.ToolStripMenuItem3_Click);
+            // 
+            // toolStripMenuItem4
+            // 
+            this.toolStripMenuItem4.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItem4.Name = "toolStripMenuItem4";
+            this.toolStripMenuItem4.Size = new System.Drawing.Size(119, 32);
+            this.toolStripMenuItem4.Text = "Тренажер";
+            this.toolStripMenuItem4.Click += new System.EventHandler(this.toolStripMenuItem4_Click);
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.menuStrip1.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ToolStripMenuItem3,
+            this.toolStripMenuItem4});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(1067, 36);
+            this.menuStrip1.TabIndex = 0;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label28.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label28.Location = new System.Drawing.Point(87, 12);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(520, 39);
+            this.label28.TabIndex = 0;
+            this.label28.Text = "1. Знакомство с шахматной доской";
+            // 
+            // label27
+            // 
+            this.label27.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label27.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label27.Location = new System.Drawing.Point(38, 85);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(619, 105);
+            this.label27.TabIndex = 1;
+            this.label27.Text = resources.GetString("label27.Text");
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(190, 185);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(314, 307);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox3.TabIndex = 2;
+            this.pictureBox3.TabStop = false;
+            // 
+            // label26
+            // 
+            this.label26.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label26.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label26.Location = new System.Drawing.Point(38, 502);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(619, 320);
+            this.label26.TabIndex = 3;
+            this.label26.Text = resources.GetString("label26.Text");
+            // 
+            // label25
+            // 
+            this.label25.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label25.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label25.Location = new System.Drawing.Point(38, 1155);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(619, 296);
+            this.label25.TabIndex = 4;
+            this.label25.Text = resources.GetString("label25.Text");
+            // 
+            // label24
+            // 
+            this.label24.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label24.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label24.Location = new System.Drawing.Point(45, 1777);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(619, 271);
+            this.label24.TabIndex = 5;
+            this.label24.Text = resources.GetString("label24.Text");
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label23.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label23.Location = new System.Drawing.Point(103, 2364);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(503, 39);
+            this.label23.TabIndex = 6;
+            this.label23.Text = "Идентификация Шахматных Фигур\r\n";
+            // 
+            // label22
+            // 
+            this.label22.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label22.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label22.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.label22.Location = new System.Drawing.Point(47, 2405);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(619, 347);
+            this.label22.TabIndex = 7;
+            this.label22.Text = resources.GetString("label22.Text");
+            // 
+            // label21
+            // 
+            this.label21.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label21.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label21.Image = ((System.Drawing.Image)(resources.GetObject("label21.Image")));
+            this.label21.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label21.Location = new System.Drawing.Point(97, 2768);
+            this.label21.Name = "label21";
+            this.label21.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label21.Size = new System.Drawing.Size(476, 26);
+            this.label21.TabIndex = 8;
+            this.label21.Text = "Пешка: в начале игры у каждого игрока по 8 пешек.";
+            this.label21.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label20
+            // 
+            this.label20.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label20.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label20.Image = ((System.Drawing.Image)(resources.GetObject("label20.Image")));
+            this.label20.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label20.Location = new System.Drawing.Point(97, 2802);
+            this.label20.Name = "label20";
+            this.label20.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label20.Size = new System.Drawing.Size(476, 39);
+            this.label20.TabIndex = 9;
+            this.label20.Text = "Слон: у каждого игрока есть 2 слона в начале игры.";
+            this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label19
+            // 
+            this.label19.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label19.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label19.Image = ((System.Drawing.Image)(resources.GetObject("label19.Image")));
+            this.label19.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label19.Location = new System.Drawing.Point(97, 2848);
+            this.label19.Name = "label19";
+            this.label19.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label19.Size = new System.Drawing.Size(462, 33);
+            this.label19.TabIndex = 10;
+            this.label19.Text = "Конь: у каждого игрока есть 2 коня в начале игры.";
+            this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label18
+            // 
+            this.label18.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label18.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label18.Image = ((System.Drawing.Image)(resources.GetObject("label18.Image")));
+            this.label18.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label18.Location = new System.Drawing.Point(97, 2886);
+            this.label18.Name = "label18";
+            this.label18.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label18.Size = new System.Drawing.Size(471, 33);
+            this.label18.TabIndex = 11;
+            this.label18.Text = "Ладья: в начале игры у каждого игрока по 2 ладьи.";
+            this.label18.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label17
+            // 
+            this.label17.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label17.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label17.Image = ((System.Drawing.Image)(resources.GetObject("label17.Image")));
+            this.label17.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label17.Location = new System.Drawing.Point(97, 2925);
+            this.label17.Name = "label17";
+            this.label17.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label17.Size = new System.Drawing.Size(462, 33);
+            this.label17.TabIndex = 12;
+            this.label17.Text = "Ферзь: в начале игры у каждого игрока есть только один ферзь.";
+            this.label17.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label16
+            // 
+            this.label16.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label16.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label16.Image = ((System.Drawing.Image)(resources.GetObject("label16.Image")));
+            this.label16.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.label16.Location = new System.Drawing.Point(97, 2965);
+            this.label16.Name = "label16";
+            this.label16.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label16.Size = new System.Drawing.Size(515, 33);
+            this.label16.TabIndex = 13;
+            this.label16.Text = "Король: каждый игрок владеет только одним королем за всю игру.";
+            this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(164, 802);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(357, 330);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 14;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Location = new System.Drawing.Point(190, 1454);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(314, 307);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox5.TabIndex = 15;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
+            this.pictureBox6.Location = new System.Drawing.Point(190, 2050);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(314, 307);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox6.TabIndex = 16;
+            this.pictureBox6.TabStop = false;
+            // 
+            // panel3
+            // 
+            this.panel3.AutoScroll = true;
+            this.panel3.Controls.Add(this.pictureBox6);
+            this.panel3.Controls.Add(this.pictureBox5);
+            this.panel3.Controls.Add(this.pictureBox4);
+            this.panel3.Controls.Add(this.label16);
+            this.panel3.Controls.Add(this.label17);
+            this.panel3.Controls.Add(this.label18);
+            this.panel3.Controls.Add(this.label19);
+            this.panel3.Controls.Add(this.label20);
+            this.panel3.Controls.Add(this.label21);
+            this.panel3.Controls.Add(this.label22);
+            this.panel3.Controls.Add(this.label23);
+            this.panel3.Controls.Add(this.label24);
+            this.panel3.Controls.Add(this.label25);
+            this.panel3.Controls.Add(this.label26);
+            this.panel3.Controls.Add(this.pictureBox3);
+            this.panel3.Controls.Add(this.label27);
+            this.panel3.Controls.Add(this.label28);
+            this.panel3.Location = new System.Drawing.Point(374, 1296);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(690, 515);
+            this.panel3.TabIndex = 7;
+            this.panel3.Visible = false;
+            // 
+            // label466
+            // 
+            this.label466.AutoSize = true;
+            this.label466.Font = new System.Drawing.Font("Comic Sans MS", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label466.ForeColor = System.Drawing.Color.Teal;
+            this.label466.Location = new System.Drawing.Point(87, 12);
+            this.label466.Name = "label466";
+            this.label466.Size = new System.Drawing.Size(520, 78);
+            this.label466.TabIndex = 0;
+            this.label466.Text = "1. Знакомство с шахматной доской\r\n(Тренажер)";
+            this.label466.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel17
+            // 
+            this.panel17.AutoScroll = true;
+            this.panel17.Controls.Add(this.button6);
+            this.panel17.Controls.Add(this.label466);
+            this.panel17.Location = new System.Drawing.Point(363, 39);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(703, 515);
+            this.panel17.TabIndex = 27;
+            this.panel17.Visible = false;
+            // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.button6.Font = new System.Drawing.Font("Comic Sans MS", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button6.Location = new System.Drawing.Point(219, 216);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(265, 82);
+            this.button6.TabIndex = 13;
+            this.button6.Text = "Нажмите, чтобы открыть тренажер";
+            this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click_1);
             // 
             // label474
             // 
-            this.label474.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.label474.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.label474.Font = new System.Drawing.Font("Comic Sans MS", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label474.Location = new System.Drawing.Point(-1, 405);
+            this.label474.Location = new System.Drawing.Point(-4, 405);
             this.label474.Name = "label474";
             this.label474.Size = new System.Drawing.Size(361, 149);
             this.label474.TabIndex = 37;
@@ -10412,16 +10144,8 @@
             this.Controls.Add(this.label474);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.menuStrip1);
-            this.Controls.Add(this.menuStrip3);
             this.Controls.Add(this.menuStrip2);
-            this.Controls.Add(this.panel25);
-            this.Controls.Add(this.panel24);
-            this.Controls.Add(this.panel23);
-            this.Controls.Add(this.panel22);
-            this.Controls.Add(this.panel21);
-            this.Controls.Add(this.panel20);
             this.Controls.Add(this.panel19);
-            this.Controls.Add(this.panel18);
             this.Controls.Add(this.panel17);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel4);
@@ -10438,6 +10162,11 @@
             this.Controls.Add(this.panel6);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel5);
+            this.Controls.Add(this.panel25);
+            this.Controls.Add(this.panel24);
+            this.Controls.Add(this.panel23);
+            this.Controls.Add(this.panel20);
+            this.Controls.Add(this.menuStrip3);
             this.ForeColor = System.Drawing.Color.White;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
@@ -10445,16 +10174,6 @@
             this.Name = "Form1";
             this.Text = "Шахматы для начинающих";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.menuStrip2.ResumeLayout(false);
-            this.menuStrip2.PerformLayout();
-            this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
@@ -10501,18 +10220,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
-            this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox257)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox256)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox254)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox252)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).EndInit();
@@ -10743,80 +10450,50 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox249)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.шахматныеФигурыBindingSource)).EndInit();
             this.panel16.ResumeLayout(false);
-            this.menuStrip3.ResumeLayout(false);
-            this.menuStrip3.PerformLayout();
-            this.panel17.ResumeLayout(false);
-            this.panel17.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox267)).EndInit();
-            this.panel18.ResumeLayout(false);
-            this.panel18.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).EndInit();
             this.panel19.ResumeLayout(false);
             this.panel19.PerformLayout();
             this.panel20.ResumeLayout(false);
             this.panel20.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).EndInit();
-            this.panel21.ResumeLayout(false);
-            this.panel21.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox260)).EndInit();
-            this.panel22.ResumeLayout(false);
-            this.panel22.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox261)).EndInit();
             this.panel23.ResumeLayout(false);
             this.panel23.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox262)).EndInit();
             this.panel24.ResumeLayout(false);
             this.panel24.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox263)).EndInit();
             this.panel25.ResumeLayout(false);
             this.panel25.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox265)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox264)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox252)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox254)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox256)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox257)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.menuStrip2.ResumeLayout(false);
+            this.menuStrip2.PerformLayout();
+            this.menuStrip3.ResumeLayout(false);
+            this.menuStrip3.PerformLayout();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            this.panel17.ResumeLayout(false);
+            this.panel17.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem ToolStripMenuItem3;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem4;
-        private System.Windows.Forms.MenuStrip menuStrip2;
-        private System.Windows.Forms.ToolStripMenuItem знакомствоСШахматнойДоскойToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem знакомствоСШахматнымиФигурамиToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem какХодятФигурыToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem пешкаToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem коньToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem слонToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ладьяToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ферзьToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem корольToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem рокировкаВШахматахToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem взятиеНаПроходеToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem шахВШахматахToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem матВШахматахToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ничьяВШахматахToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem записьПартийВШахматахToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem какВыигратьВШахматыToolStripMenuItem;
-        private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.PictureBox pictureBox12;
         private System.Windows.Forms.Label label38;
@@ -10913,24 +10590,6 @@
         private System.Windows.Forms.Label label57;
         private System.Windows.Forms.Label label58;
         private System.Windows.Forms.Label label62;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.PictureBox pictureBox9;
-        private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.PictureBox pictureBox7;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label115;
         private System.Windows.Forms.Label label114;
         private System.Windows.Forms.Label label113;
@@ -11529,71 +11188,104 @@
         private System.Windows.Forms.Label label439;
         private System.Windows.Forms.Label label436;
         private System.Windows.Forms.Label label435;
-        private System.Windows.Forms.PictureBox pictureBox257;
-        private System.Windows.Forms.PictureBox pictureBox256;
-        private System.Windows.Forms.PictureBox pictureBox255;
-        private System.Windows.Forms.PictureBox pictureBox254;
-        private System.Windows.Forms.PictureBox pictureBox253;
-        private System.Windows.Forms.PictureBox pictureBox252;
         private System.Windows.Forms.DataGridViewTextBoxColumn названиеФигурыDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn русскоеОбозначениеDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn английскоеОбозначениеDataGridViewTextBoxColumn;
-        private System.Windows.Forms.MenuStrip menuStrip3;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem6;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem13;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem14;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem15;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem16;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem17;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem18;
-        private System.Windows.Forms.Panel panel17;
-        private System.Windows.Forms.PictureBox pictureBox267;
-        private System.Windows.Forms.Label label465;
-        private System.Windows.Forms.Label label466;
-        private System.Windows.Forms.Panel panel18;
-        private System.Windows.Forms.PictureBox pictureBox258;
-        private System.Windows.Forms.Label label452;
-        private System.Windows.Forms.Label label453;
         private System.Windows.Forms.Panel panel19;
         private System.Windows.Forms.Label label454;
         private System.Windows.Forms.Label label455;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panel20;
-        private System.Windows.Forms.PictureBox pictureBox259;
-        private System.Windows.Forms.Label label458;
         private System.Windows.Forms.Label label459;
-        private System.Windows.Forms.Panel panel21;
-        private System.Windows.Forms.PictureBox pictureBox260;
-        private System.Windows.Forms.Label label460;
-        private System.Windows.Forms.Label label461;
-        private System.Windows.Forms.Panel panel22;
-        private System.Windows.Forms.PictureBox pictureBox261;
-        private System.Windows.Forms.Label label462;
-        private System.Windows.Forms.Label label463;
         private System.Windows.Forms.Panel panel23;
-        private System.Windows.Forms.PictureBox pictureBox262;
-        private System.Windows.Forms.Label label464;
         private System.Windows.Forms.Label label467;
         private System.Windows.Forms.Panel panel24;
-        private System.Windows.Forms.PictureBox pictureBox263;
-        private System.Windows.Forms.Label label468;
         private System.Windows.Forms.Label label469;
         private System.Windows.Forms.Panel panel25;
         private System.Windows.Forms.Label label471;
-        private System.Windows.Forms.Label label474;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Label label475;
-        private System.Windows.Forms.Label label473;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.PictureBox pictureBox265;
         private System.Windows.Forms.PictureBox pictureBox264;
         private System.Windows.Forms.Label label472;
         private System.Windows.Forms.Label label470;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.PictureBox pictureBox252;
+        private System.Windows.Forms.PictureBox pictureBox253;
+        private System.Windows.Forms.PictureBox pictureBox254;
+        private System.Windows.Forms.PictureBox pictureBox255;
+        private System.Windows.Forms.PictureBox pictureBox256;
+        private System.Windows.Forms.PictureBox pictureBox257;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.ToolStripMenuItem знакомствоСШахматнойДоскойToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem знакомствоСШахматнымиФигурамиToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem какХодятФигурыToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem пешкаToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem коньToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem слонToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ладьяToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ферзьToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem корольToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem рокировкаВШахматахToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem взятиеНаПроходеToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem шахВШахматахToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem матВШахматахToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ничьяВШахматахToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem записьПартийВШахматахToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem какВыигратьВШахматыToolStripMenuItem;
+        private System.Windows.Forms.MenuStrip menuStrip2;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem6;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem13;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem16;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem17;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem18;
+        private System.Windows.Forms.MenuStrip menuStrip3;
+        private System.Windows.Forms.ToolStripMenuItem ToolStripMenuItem3;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem4;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Label label466;
+        private System.Windows.Forms.Panel panel17;
+        private System.Windows.Forms.Label label474;
+        private System.Windows.Forms.Button button6;
     }
 }
 

@@ -15,7 +15,6 @@ namespace Шахматы
         public Form1()
         {
             InitializeComponent();
-            menuStrip2.Visible = false;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,6 +33,12 @@ namespace Шахматы
             menuStrip3.Visible = false;
             panel19.Visible = false;
             label474.BackColor = Color.DeepSkyBlue;
+            panel20.Visible = false;
+            panel23.Visible = false;
+            panel24.Visible = false;
+            panel19.Visible = false;
+            panel25.Visible = false;
+            panel17.Visible = false;
         }
 
         private void ЗнакомствоСШахматнойДоскойToolStripMenuItem_Click(object sender, EventArgs e)
@@ -373,18 +378,91 @@ namespace Шахматы
         {
             panel19.Visible = true;
             panel25.Visible = false;
+            panel24.Visible = false;
+            panel23.Visible = false;
+            panel17.Visible = false;
+            panel20.Visible = false;
         }
 
         private void toolStripMenuItem18_Click(object sender, EventArgs e)
         {
             panel19.Visible = false;
             panel25.Visible = true;
+            panel24.Visible = false;
+            panel23.Visible = false;
+            panel17.Visible = false;
+            panel20.Visible = false;
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             Tren9 tren9 = new Tren9();
             tren9.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Tren8 tren8 = new Tren8();
+            tren8.Show();
+        }
+
+        private void toolStripMenuItem17_Click(object sender, EventArgs e)
+        {
+            panel24.Visible = true;
+            panel19.Visible = false;
+            panel25.Visible = false;
+            panel23.Visible = false;
+            panel17.Visible = false;
+            panel20.Visible = false;
+        }
+
+        private void toolStripMenuItem16_Click(object sender, EventArgs e)
+        {
+            panel23.Visible = true;
+            panel24.Visible = false;
+            panel19.Visible = false;
+            panel25.Visible = false;
+            panel20.Visible = false;
+            panel17.Visible = false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Tren7 tren7= new Tren7();
+            tren7.Show();  
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Tren4 tren4 = new Tren4();
+            tren4.Show();
+        }
+
+        private void toolStripMenuItem13_Click(object sender, EventArgs e)
+        {
+            panel20.Visible = true;
+            panel23.Visible = false;
+            panel24.Visible = false;
+            panel19.Visible = false;
+            panel25.Visible = false;
+            panel17.Visible = false;
+        }
+
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+            Tren1 tren1 = new Tren1();
+            tren1.Show();
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            panel20.Visible = false;
+            panel23.Visible = false;
+            panel24.Visible = false;
+            panel19.Visible = false;
+            panel25.Visible = false;
+            panel17.Visible = true;
         }
     }
 }

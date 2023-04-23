@@ -57,11 +57,35 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tren1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tren1.Designer.cs">
+      <DependentUpon>Tren1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Tren3.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Tren3.Designer.cs">
       <DependentUpon>Tren3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tren4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tren4.Designer.cs">
+      <DependentUpon>Tren4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tren7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tren7.Designer.cs">
+      <DependentUpon>Tren7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tren8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tren8.Designer.cs">
+      <DependentUpon>Tren8.cs</DependentUpon>
     </Compile>
     <Compile Include="Tren9.cs">
       <SubType>Form</SubType>
@@ -86,8 +110,20 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Tren1.resx">
+      <DependentUpon>Tren1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tren3.resx">
       <DependentUpon>Tren3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tren4.resx">
+      <DependentUpon>Tren4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tren7.resx">
+      <DependentUpon>Tren7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tren8.resx">
+      <DependentUpon>Tren8.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tren9.resx">
       <DependentUpon>Tren9.cs</DependentUpon>
