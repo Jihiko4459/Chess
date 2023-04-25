@@ -78,6 +78,7 @@ namespace Шахматы
             string y2 = textBox4.Text;//у2
             if (x1.Length > 0&&y1.Length>0&&x2.Length>0&&y2.Length>0) { //проверка на пустоту полей
                 Ladiya(Convert.ToInt32(x1), Convert.ToInt32(y1), Convert.ToInt32(x2), Convert.ToInt32(y2));
+                //вызов фунции для определения верности хода
             }
             else
             {
