@@ -823,12 +823,12 @@
             this.button6 = new System.Windows.Forms.Button();
             this.label474 = new System.Windows.Forms.Label();
             this.panel18 = new System.Windows.Forms.Panel();
+            this.pictureBox260 = new System.Windows.Forms.PictureBox();
+            this.pictureBox259 = new System.Windows.Forms.PictureBox();
+            this.label458 = new System.Windows.Forms.Label();
+            this.pictureBox258 = new System.Windows.Forms.PictureBox();
             this.label452 = new System.Windows.Forms.Label();
             this.label453 = new System.Windows.Forms.Label();
-            this.pictureBox258 = new System.Windows.Forms.PictureBox();
-            this.label458 = new System.Windows.Forms.Label();
-            this.pictureBox259 = new System.Windows.Forms.PictureBox();
-            this.pictureBox260 = new System.Windows.Forms.PictureBox();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
@@ -1120,9 +1120,9 @@
             this.panel3.SuspendLayout();
             this.panel17.SuspendLayout();
             this.panel18.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox260)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).BeginInit();
             this.SuspendLayout();
             // 
             // panel4
@@ -10162,6 +10162,46 @@
             this.panel18.TabIndex = 38;
             this.panel18.Visible = false;
             // 
+            // pictureBox260
+            // 
+            this.pictureBox260.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox260.Image")));
+            this.pictureBox260.Location = new System.Drawing.Point(447, 282);
+            this.pictureBox260.Name = "pictureBox260";
+            this.pictureBox260.Size = new System.Drawing.Size(155, 158);
+            this.pictureBox260.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox260.TabIndex = 5;
+            this.pictureBox260.TabStop = false;
+            // 
+            // pictureBox259
+            // 
+            this.pictureBox259.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox259.Image")));
+            this.pictureBox259.Location = new System.Drawing.Point(21, 125);
+            this.pictureBox259.Name = "pictureBox259";
+            this.pictureBox259.Size = new System.Drawing.Size(155, 158);
+            this.pictureBox259.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox259.TabIndex = 4;
+            this.pictureBox259.TabStop = false;
+            // 
+            // label458
+            // 
+            this.label458.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label458.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label458.Location = new System.Drawing.Point(31, 332);
+            this.label458.Name = "label458";
+            this.label458.Size = new System.Drawing.Size(417, 79);
+            this.label458.TabIndex = 3;
+            this.label458.Text = "или тренажер, в котором хочешь проверить себя\r\n";
+            // 
+            // pictureBox258
+            // 
+            this.pictureBox258.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox258.Image")));
+            this.pictureBox258.Location = new System.Drawing.Point(222, 9);
+            this.pictureBox258.Name = "pictureBox258";
+            this.pictureBox258.Size = new System.Drawing.Size(73, 83);
+            this.pictureBox258.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox258.TabIndex = 2;
+            this.pictureBox258.TabStop = false;
+            // 
             // label452
             // 
             this.label452.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
@@ -10184,58 +10224,15 @@
             this.label453.Text = "Привет!";
             this.label453.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // pictureBox258
-            // 
-            this.pictureBox258.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox258.Image")));
-            this.pictureBox258.Location = new System.Drawing.Point(222, 9);
-            this.pictureBox258.Name = "pictureBox258";
-            this.pictureBox258.Size = new System.Drawing.Size(73, 83);
-            this.pictureBox258.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox258.TabIndex = 2;
-            this.pictureBox258.TabStop = false;
-            // 
-            // label458
-            // 
-            this.label458.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label458.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label458.Location = new System.Drawing.Point(31, 332);
-            this.label458.Name = "label458";
-            this.label458.Size = new System.Drawing.Size(417, 79);
-            this.label458.TabIndex = 3;
-            this.label458.Text = "или тренажер, в котором хочешь проверить себя\r\n";
-            // 
-            // pictureBox259
-            // 
-            this.pictureBox259.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox259.Image")));
-            this.pictureBox259.Location = new System.Drawing.Point(21, 125);
-            this.pictureBox259.Name = "pictureBox259";
-            this.pictureBox259.Size = new System.Drawing.Size(155, 158);
-            this.pictureBox259.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox259.TabIndex = 4;
-            this.pictureBox259.TabStop = false;
-            // 
-            // pictureBox260
-            // 
-            this.pictureBox260.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox260.Image")));
-            this.pictureBox260.Location = new System.Drawing.Point(447, 282);
-            this.pictureBox260.Name = "pictureBox260";
-            this.pictureBox260.Size = new System.Drawing.Size(155, 158);
-            this.pictureBox260.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox260.TabIndex = 5;
-            this.pictureBox260.TabStop = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1067, 554);
-            this.Controls.Add(this.panel18);
             this.Controls.Add(this.label474);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.menuStrip2);
-            this.Controls.Add(this.panel19);
-            this.Controls.Add(this.panel17);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel16);
@@ -10256,6 +10253,9 @@
             this.Controls.Add(this.panel23);
             this.Controls.Add(this.panel20);
             this.Controls.Add(this.menuStrip3);
+            this.Controls.Add(this.panel18);
+            this.Controls.Add(this.panel19);
+            this.Controls.Add(this.panel17);
             this.ForeColor = System.Drawing.Color.White;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
@@ -10579,9 +10579,9 @@
             this.panel17.PerformLayout();
             this.panel18.ResumeLayout(false);
             this.panel18.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox260)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

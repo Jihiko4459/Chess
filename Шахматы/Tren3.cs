@@ -72,11 +72,11 @@ namespace Шахматы
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string x1 = textBox1.Text;
-            string y1 = textBox2.Text;
-            string x2 = textBox3.Text;
-            string y2 = textBox4.Text;
-            if (x1.Length > 0) { 
+            string x1 = textBox1.Text;//х1
+            string y1 = textBox2.Text;//у1
+            string x2 = textBox3.Text;//х2
+            string y2 = textBox4.Text;//у2
+            if (x1.Length > 0&&y1.Length>0&&x2.Length>0&&y2.Length>0) { //проверка на пустоту полей
                 Ladiya(Convert.ToInt32(x1), Convert.ToInt32(y1), Convert.ToInt32(x2), Convert.ToInt32(y2));
             }
             else
@@ -92,7 +92,7 @@ namespace Шахматы
             string y1 = textBox2.Text;
             string x2 = textBox3.Text;
             string y2 = textBox4.Text;
-            if (x1.Length > 0)
+            if (x1.Length > 0 && y1.Length > 0 && x2.Length > 0 && y2.Length > 0)
             {
                 Ferz(Convert.ToInt32(x1), Convert.ToInt32(y1), Convert.ToInt32(x2), Convert.ToInt32(y2));
             }
@@ -109,7 +109,7 @@ namespace Шахматы
             string y1 = textBox2.Text;
             string x2 = textBox3.Text;
             string y2 = textBox4.Text;
-            if (x1.Length > 0)
+            if (x1.Length > 0 && y1.Length > 0 && x2.Length > 0 && y2.Length > 0)
             {
                 King(Convert.ToInt32(x1), Convert.ToInt32(y1), Convert.ToInt32(x2), Convert.ToInt32(y2));
             }
@@ -125,7 +125,7 @@ namespace Шахматы
             string y1 = textBox2.Text;
             string x2 = textBox3.Text;
             string y2 = textBox4.Text;
-            if (x1.Length > 0)
+            if (x1.Length > 0 && y1.Length > 0 && x2.Length > 0 && y2.Length > 0)
             {
                 Elephant(Convert.ToInt32(x1), Convert.ToInt32(y1), Convert.ToInt32(x2), Convert.ToInt32(y2));
             }
@@ -141,7 +141,7 @@ namespace Шахматы
             string y1 = textBox2.Text;
             string x2 = textBox3.Text;
             string y2 = textBox4.Text;
-            if (x1.Length > 0)
+            if (x1.Length > 0 && y1.Length > 0 && x2.Length > 0 && y2.Length > 0)
             {
                 Horse(Convert.ToInt32(x1), Convert.ToInt32(y1), Convert.ToInt32(x2), Convert.ToInt32(y2));
             }
@@ -158,7 +158,7 @@ namespace Шахматы
             string y1 = textBox2.Text;
             string x2 = textBox3.Text;
             string y2 = textBox4.Text;
-            if (x1.Length > 0)
+            if (x1.Length > 0 && y1.Length > 0 && x2.Length > 0 && y2.Length > 0)
             {
                 Pawn(Convert.ToInt32(x1), Convert.ToInt32(y1), Convert.ToInt32(x2), Convert.ToInt32(y2));
             }

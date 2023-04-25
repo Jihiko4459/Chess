@@ -40,28 +40,28 @@ namespace Шахматы
             panel19.Visible = false;
             panel25.Visible = false;
             panel17.Visible = false;
-            panel18.Visible = true;
+            panel18.Visible = true;//приветственный экран
         }
 
         private void ЗнакомствоСШахматнойДоскойToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            panel16.Visible=false;
-            panel15.Visible = false;
-            panel14.Visible = false;
-            panel13.Visible = false;
-            panel12.Visible = false;
-            panel11.Visible = false;
-            panel10.Visible = false;
-            panel9.Visible = false;
-            panel8.Visible = false;
-            panel7.Visible = false;
-            panel6.Visible = false;
-            panel1.Visible = false;
-            panel5.Visible = false;
-            panel4.Visible = false;
-            panel2.Visible = true;
-            menuStrip3.Visible = false;
-            panel18.Visible = false;
+            panel16.Visible=false;//панель "Как выиграть в шахматах"
+            panel15.Visible = false;//панель "Запись партий в шахматах"
+            panel14.Visible = false;//панель "Ничья в шахматах"
+            panel13.Visible = false;//панель "Мат в шахматах"
+            panel12.Visible = false;//панель "Шах в шахматах"
+            panel11.Visible = false;//панель "Взятие на походе"
+            panel10.Visible = false;//панель "Рокировка в шахматах"
+            panel9.Visible = false;//панель "Король"
+            panel8.Visible = false;//панель "Ферзь"
+            panel7.Visible = false;//панель "Ладья"
+            panel6.Visible = false;//панель "Слон"
+            panel1.Visible = false;//панель "Конь"
+            panel5.Visible = false;//панель "Пешка"
+            panel4.Visible = false;//панель "Знакомство с шахматными фигурами"
+            panel2.Visible = true;//панель "Знакомство с шахматной доской"
+            menuStrip3.Visible = false;//меню для тренажера
+            panel18.Visible = false;//приветственный экран
         }
 
         private void знакомствоСШахматнымиФигурамиToolStripMenuItem_Click(object sender, EventArgs e)
@@ -369,7 +369,7 @@ namespace Шахматы
             label474.BackColor = Color.MediumTurquoise;
             menuStrip1.BackColor = Color.MediumTurquoise;
             menuStrip2.Visible = false;
-            panel18.Visible = true;
+            panel18.Visible = true;//приветственный экран
             panel16.Visible = false;
             panel15.Visible = false;
             panel14.Visible = false;
@@ -389,19 +389,19 @@ namespace Шахматы
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Tren3 tren3= new Tren3();
-            tren3.Show();
+            Tren3 tren3= new Tren3();//объявляем объект класса Tren3 для открытия новой формы
+            tren3.Show();//открываем другую форму
         }
 
         private void toolStripMenuItem6_Click(object sender, EventArgs e)
         {
-            panel19.Visible = true;
-            panel25.Visible = false;
-            panel24.Visible = false;
-            panel23.Visible = false;
-            panel18.Visible = false;
-            panel17.Visible = false;
-            panel20.Visible = false;
+            panel19.Visible = true;//панель "Знакомство с шахматной доской. Тренажер" 
+            panel25.Visible = false;//панель "Как ходят фигуры?  Тренажер"
+            panel24.Visible = false;//панель "Рокировка в шахматах. Тренажер"
+            panel23.Visible = false;//панель "Мат в шахматах. Тренажер"
+            panel18.Visible = false;//приветственный экран
+            panel17.Visible = false;//панель "Ничья в шахматах. Тренажер"
+            panel20.Visible = false;//панель "Запись партий. Тренажер"
         }
 
         private void toolStripMenuItem18_Click(object sender, EventArgs e)

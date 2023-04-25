@@ -18,7 +18,7 @@ namespace Шахматы
         }
 
         private void button5_Click(object sender, EventArgs e)
-        {//Кр Ф С Л К 
+        {
             string varotvet1=textBox1.Text,  varotvet2 = textBox2.Text, 
                 varotvet3 = textBox3.Text, varotvet4 = textBox4.Text, varotvet5 = textBox6.Text;
             string otvet1 = "5. Лe5; 7. Крe7, Сg7; 8. Крg8",
